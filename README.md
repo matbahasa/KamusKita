@@ -32,66 +32,66 @@
 人文学におけるテキストの構造的マークアップの国際標準である[TEI (Text Encoding Initiative)](https://www.tei-c.org)のガイドラインに準拠しています。一般的なマレー語辞書と同様に語根を最上位の見出し（entry）とし、その下にその具体的な語形が下位エントリーとして列挙される形になっています。後者の`<entry>`の属性`xml:id`の値はマレー語・インドネシア語形態情報辞書[MALINDO Morph](https://github.com/matbahasa/MALINDO_Morph)のIDと同じものになっています。
 
 ```xml
-         <entry type="root">
-            <!-- 同綴り語の場合は上位entryを設け、n="1" subtype="hom"を追加 -->
-            <!-- 語根 -->
-            <form>
-               <orth>語根正書法</orth>
-               <pron>語根発音</pron>
-            </form>
-            <xr type="cf">
-               <ref target="#ID">参照先の見出し</ref>
-            </xr>
-            <xr type="abbr">
-               <ref target="#ID">完全形</ref><lbl>の短縮形</lbl>
-            </xr>
-            <xr type="var">
-               <ref target="#ID">標準形</ref><lbl>の異形</lbl>
-            </xr>
-            <!-- 語形 -->
-            <entry xml:id="ID" resp="担当者">
-               <form>語形</form>
-               <usg type="register">文体（「口語]など）</usg>
-               <xr type="formal">
-                  <ref target="ID">参照先の見出し</ref><lbl>の口語形</lbl>
-               </xr>
-               <!-- 品詞 -->
-               <gramGrp>
-                  <pos>品詞</pos>
-               </gramGrp>
-               <usg type="register">文体（「口語]など）</usg>
-               <xr type="formal">
-                  <ref target="ID">参照先の見出し</ref><lbl>の口語形</lbl>
-               </xr>
-               <sense n="1">
-                  <usg type="time">時代（「古」など）</usg>
-                  <usg type="gram">用法</usg>
-                  <def>意味</def>
-                  <cit type="example">
-                     <quote>例文（<emph>当該語形</emph>）</quote>
-                     <cit type="translation">
-                        <quote>例文日本語訳</quote>
-                     </cit>
+<entry type="root">
+   <!-- 同綴り語の場合は上位entryを設け、n="1" subtype="hom"を追加 -->
+   <!-- 語根 -->
+   <form>
+      <orth>語根正書法</orth>
+      <pron>語根発音</pron>
+   </form>
+   <xr type="cf">
+      <ref target="#ID">参照先の見出し</ref>
+   </xr>
+   <xr type="abbr">
+      <ref target="#ID">完全形</ref><lbl>の短縮形</lbl>
+   </xr>
+   <xr type="var">
+      <ref target="#ID">標準形</ref><lbl>の異形</lbl>
+   </xr>
+   <!-- 語形 -->
+   <entry xml:id="ID" resp="担当者">
+      <form>語形</form>
+      <usg type="register">文体（「口語]など）</usg>
+      <xr type="formal">
+         <ref target="ID">参照先の見出し</ref><lbl>の口語形</lbl>
+      </xr>
+      <!-- 品詞 -->
+      <gramGrp>
+         <pos>品詞</pos>
+      </gramGrp>
+      <usg type="register">文体（「口語]など）</usg>
+      <xr type="formal">
+         <ref target="ID">参照先の見出し</ref><lbl>の口語形</lbl>
+      </xr>
+      <sense n="1">
+         <usg type="time">時代（「古」など）</usg>
+         <usg type="gram">用法</usg>
+         <def>意味</def>
+         <cit type="example">
+            <quote>例文（<emph>当該語形</emph>）</quote>
+            <cit type="translation">
+               <quote>例文日本語訳</quote>
+            </cit>
+         </cit>
+      </sense>
+      <!-- 熟語 -->
+      <re>
+         <entry>
+            <form>熟語</form>
+            <sense>
+               <usg type="gram">用法</usg>
+               <def>意味</def>
+               <cit type="example">
+                  <quote>例文（<emph>当該語形</emph>）</quote>
+                  <cit type="translation">
+                     <quote>例文日本語訳</quote>
                   </cit>
-               </sense>
-               <!-- 熟語 -->
-               <re>
-                  <entry>
-                     <form>熟語</form>
-                     <sense>
-                        <usg type="gram">用法</usg>
-                        <def>意味</def>
-                        <cit type="example">
-                           <quote>例文（<emph>当該語形</emph>）</quote>
-                           <cit type="translation">
-                              <quote>例文日本語訳</quote>
-                           </cit>
-                        </cit>
-                     </sense>
-                  </entry>
-               </re>
-            </entry>
+               </cit>
+            </sense>
          </entry>
+      </re>
+   </entry>
+</entry>
 ```
 
 ## 引用文献
