@@ -9,4 +9,4 @@ transform = etree.XSLT(xsl_tree)
 result_tree = transform(xml_tree)
 
 # HTMLとして保存
-result_tree.write("kamus.html", pretty_print=True, encoding="UTF-8")
+result_tree.write("index.html", pretty_print=True, encoding="UTF-8")
