@@ -13,14 +13,17 @@
 
 ## 執筆者（五十音順）
 - 飯島葉月/Hazuki Iijima
+- 上宮かれん/Karen Uemiya
 - 内田美那/Mina Uchida
 - 大沼千秋/Chiaki Onuma
 - S. Ogawara
 - 柏美紀/Miki Kashiwa
 - 高橋はな/Hana Takahashi
 - 田村陽太/Yota Tamura
+- 西依勇輝/Yuki Nishiyori
 - 野間口百合/Yuri Nomaguchi
 - 野元裕樹/Hiroki Nomoto
+- 由井彩花/Ayaka Yui
 
 ## 各ファイルの概要
 - `kamus.xml`: 辞書ファイル本体。
@@ -29,7 +32,7 @@
 - `xml2html.py`: 辞書ファイル`kamus.xml`をスタイルシート`kamus_style.xsl`に基づいてhtmlファイルに変換するPythonスクリプト。`kamus.html`が出力結果。
 
 ### 辞書ファイル（kamus.xml）について
-人文学におけるテキストの構造的マークアップの国際標準である[TEI (Text Encoding Initiative)](https://www.tei-c.org)のガイドラインに準拠しています。一般的なマレー語辞書と同様に語根を最上位の見出し（entry）とし、その下にその具体的な語形が下位エントリーとして列挙される形になっています。後者の`<entry>`の属性`xml:id`の値はマレー語・インドネシア語形態情報辞書[MALINDO Morph](https://github.com/matbahasa/MALINDO_Morph)のIDと同じものになっています。
+人文学におけるテキストの構造的マークアップの国際標準である[TEI (Text Encoding Initiative)](https://www.tei-c.org)のガイドラインに準拠しています。一般的なマレー語辞書と同様に語根を最上位の見出し（entry）とし、その下にその具体的な語形が下位エントリーとして列挙される形になっています。後者の`<entry>`の属性`xml:id`の値はマレー語・インドネシア語形態情報辞書[MALINDO Morph](https://github.com/matbahasa/MALINDO_Morph)のIDと同じものです。
 
 ```xml
 <entry type="root">
