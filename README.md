@@ -27,9 +27,9 @@
 
 ## 各ファイルの概要
 - `kamus.xml`: 辞書ファイル本体。
-- `kamus.html`: ブラウザで閲覧可能な辞書。
+- `index.html`: ブラウザで閲覧可能な辞書。
 - `kamus_style.xsl`: 辞書ファイル`kamus.xml`をhtml形式に変換することを目的としたスタイルシート。
-- `xml2html.py`: 辞書ファイル`kamus.xml`をスタイルシート`kamus_style.xsl`に基づいてhtmlファイルに変換するPythonスクリプト。`kamus.html`が出力結果。
+- `xml2html.py`: 辞書ファイル`kamus.xml`をスタイルシート`kamus_style.xsl`に基づいてhtmlファイルに変換するPythonスクリプト。`index.html`が出力結果。
 
 ### 辞書ファイル（kamus.xml）について
 人文学におけるテキストの構造的マークアップの国際標準である[TEI (Text Encoding Initiative)](https://www.tei-c.org)のガイドラインに準拠しています。一般的なマレー語辞書と同様に語根を最上位の見出し（entry）とし、その下にその具体的な語形が下位エントリーとして列挙される形になっています。後者の`<entry>`の属性`xml:id`の値はマレー語・インドネシア語形態情報辞書[MALINDO Morph](https://github.com/matbahasa/MALINDO_Morph)のIDと同じものです。
