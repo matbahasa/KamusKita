@@ -78,8 +78,8 @@
 <!-- CC-BY 4.0（公式アイコン＋フル説明） -->
 <div style="margin-top:1em; font-size:0.9em; color:#333; line-height:1.4;">
 
-  <!-- CC-BY 公式アイコン（オンライン版） -->
-  <img src="https://mirrors.creativecommons.org/presskit/icons/cc-by.svg"
+  <!-- CC-BY 公式アイコン -->
+  <img src="by.svg"
        alt="CC-BY 4.0"
        style="height:32px; vertical-align:middle; margin-right:0.6em;" />
 
