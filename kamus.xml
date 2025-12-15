@@ -72,6 +72,13 @@
 		    </persName>
 	    </author>
 	    <author>
+		    <persName xml:id="Tsuzuki">
+			    <surname>都築</surname>
+			    <forename>佑樹</forename>
+			    <addName type="romanized">Yuki Tsuzuki</addName>
+		    </persName>
+	    </author>
+	    <author>
 		    <persName xml:id="Nishiyori">
 			    <surname>西依</surname>
 			    <forename>勇輝</forename>

@@ -20,6 +20,7 @@
 - 柏美紀/Miki Kashiwa
 - 高橋はな/Hana Takahashi
 - 田村陽太/Yota Tamura
+- 都築佑樹/Yuki Tsuzuki
 - 西依勇輝/Yuki Nishiyori
 - 野間口百合/Yuri Nomaguchi
 - 野元裕樹/Hiroki Nomoto
