@@ -13627,9 +13627,9 @@
                <orth>mase</orth>
                <pron>mase</pron>
             </form>
-            <!-- 語形 ade -->
+            <!-- 語形 mase -->
             <entry xml:id="ec-28873" resp="Nomoto">
-               <form>ade</form>
+               <form>mase</form>
                <xr type="cf">
                   <ref target="#cc-49744">masa</ref>
                </xr>
