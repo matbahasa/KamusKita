@@ -13622,6 +13622,21 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 mase -->
+            <form>
+               <orth>mase</orth>
+               <pron>mase</pron>
+            </form>
+            <!-- 語形 ade -->
+            <entry xml:id="ec-28873" resp="Nomoto">
+               <form>ade</form>
+               <xr type="cf">
+                  <ref target="#cc-49744">masa</ref>
+               </xr>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 masih-->
             <form>
                <orth>masih</orth>
