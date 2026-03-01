@@ -11391,13 +11391,13 @@
                         <quote>一般に親や保護者達の10%未満しかオンラインでの子供達の行動を監視できていない。</quote>
                      </cit>
                   </cit>
-               </sense>
                   <cit type="example">
                      <quote>Kami dapat menyelesaikan pertelingkahan dalam masa <emph>kurang</emph> tiga tahun.</quote>
                      <cit type="translation">
                         <quote>私達は3年未満で言い争いを解決することができた。</quote>
                      </cit>
                   </cit>
+               </sense>
                <sense n="2">
                   <def>物足りない、劣る</def>
                   <cit type="example">
@@ -11457,7 +11457,7 @@
                         </cit>
                      </sense>
                      <sense n="4">
-                        <def></def>
+                        <def>少なからず</def>
                         <cit type="example">
 				<quote>Malah <emph>tidak kurang</emph> ada pasangan bertemu jodoh melalui perkenalan di alam siber.</quote>
                            <cit type="translation">
@@ -11471,7 +11471,7 @@
                <gramGrp>
                   <pos>副</pos>
                </gramGrp>
-               <sense n="1">
+               <sense>
                   <def>あまり〜ない</def>
                   <cit type="example">
                      <quote>Bas itu mungkin berada dalam keadaan yang <emph>kurang</emph> baik.</quote>
@@ -11485,19 +11485,19 @@
                         <quote>「選ばれるのはかわいい子だけ、あまりかわいくない子は除け者にされる」とマズィアは口を尖らせた。</quote>
                      </cit>
                   </cit>
-               </sense>
                   <cit type="example">
                      <quote>Entahlah, saya <emph>kurang</emph> faham.</quote>
                      <cit type="translation">
                         <quote>さあ、よく分かりません。</quote>
                      </cit>
                   </cit>
+               </sense>
                <!-- 動詞 -->
                <gramGrp>
                   <pos>動</pos>
                </gramGrp>
-               <usg type="register">口語）</usg>
-               <sense n="1">
+               <usg type="register">口語</usg>
+               <sense>
                   <def>まける、減らす</def>
                   <cit type="example">
                      <quote>Sepasang harganya lima belas ringgit, tapi boleh <emph>kurang</emph> lagi.</quote>
