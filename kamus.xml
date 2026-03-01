@@ -645,8 +645,7 @@
                      </cit>
                   </cit>
                   <cit type="example">
-                     <quote>Merendam kaki dalam <emph>air</emph> panas membantu menyembuhkan
-                        selsema.</quote>
+                     <quote>Merendam kaki dalam <emph>air</emph> panas membantu menyembuhkan selesema.</quote>
                      <cit type="translation">
                         <quote>お湯に足を浸けると風邪が治りやすくなる。</quote>
                      </cit>
@@ -791,8 +790,7 @@
                      <sense>
                         <def>祖国、母国</def>
                         <cit type="example">
-                           <quote>Tidak sampai seminggu pulang ke <emph>tanah air</emph>, Zulhairi
-                              sudah mendapatkan pekerjaan.</quote>
+                           <quote>Tidak sampai seminggu pulang ke <emph>tanah air</emph>, Zuhairi sudah mendapatkan pekerjaan.</quote>
                            <cit type="translation">
                               <quote>帰国して1週間もたたないにもかかわらず、ズハイリは仕事をもう得た。</quote>
                            </cit>
@@ -11353,6 +11351,163 @@
             </entry>
          </entry>
  </entry>
+
+         <entry type="root">
+            <!-- 語根 kurang -->
+            <form>
+               <orth>kurang</orth>
+               <pron>kurang</pron>
+            </form>
+            <!-- 語形 kurang -->
+            <entry xml:id="cc-43521" resp="Nomoto">
+               <form>kurang</form>
+               <!-- 形容詞 -->
+               <gramGrp>
+                  <pos>形</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>足りない、（より）少ない</def>
+                  <cit type="example">
+                     <quote><emph>kurang</emph> ajar</quote>
+                     <cit type="translation">
+                        <quote>無礼な、生意気な</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>orang <emph>kurang</emph> upaya</quote>
+                     <cit type="translation">
+                        <quote>障害者</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Peladang yang tanamannya dilanda banjir mendapat hasil yang <emph>kurang</emph>.</quote>
+                     <cit type="translation">
+                        <quote>耕作物が洪水に見舞われた農家は収穫量が少なくなる。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Secara amnya <emph>kurang</emph> daripada 10% daripada kalangan ibu bapa dan penjaga yang berupaya memantau aktiviti kanak-kanak mereka semasa online.</quote>
+                     <cit type="translation">
+                        <quote>一般に親や保護者達の10%未満しかオンラインでの子供達の行動を監視できていない。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+                  <cit type="example">
+                     <quote>Kami dapat menyelesaikan pertelingkahan dalam masa <emph>kurang</emph> tiga tahun.</quote>
+                     <cit type="translation">
+                        <quote>私達は3年未満で言い争いを解決することができた。</quote>
+                     </cit>
+                  </cit>
+               <sense n="2">
+                  <def>物足りない、劣る</def>
+                  <cit type="example">
+                     <quote>Hampir semua cerpen Dr. Shahnon saya baca. Cuma novelnya <emph>kurang</emph> sikit.</quote>
+                     <cit type="translation">
+                        <quote>シャーノン博士の短編はほぼすべて読んだ。ただ、小説はちょっと物足りない。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>kurang darah</form>
+                     <sense>
+                        <def>貧血</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>lebih kurang [kurang lebih]</form>
+                     <sense>
+                        <def>およそ、だいたい</def>
+                        <cit type="example">
+				<quote>Kejadian pembunuhan ini berlaku <emph>lebih kurang</emph> 3.5km saja dari rumah mangsa.</quote>
+                           <cit type="translation">
+                              <quote>この殺人事件は被害者宅からおよそ3.5kmしか離れていない所で起きた。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>tidak kurang</form>
+                     <sense n="1">
+                        <def>少なくはない</def>
+                        <cit type="example">
+				<quote>Ada yang hidup bahagia melalui hutang dan <emph>tidak kurang</emph> juga yang hidup merana bahana hutang.</quote>
+                           <cit type="translation">
+                              <quote>借金をして幸せに暮らす人もいれば借金に苦しんで暮らす人も少なくはない。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                     <sense n="2">
+                        <def>劣らない</def>
+                        <cit type="example">
+				<quote>Kesasteraan Iran juga <emph>tidak kurang</emph> hebatnya.</quote>
+                           <cit type="translation">
+                              <quote>イラン文学もその素晴らしさにおいて劣らない。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                     <sense n="3">
+                        <def>少なくとも</def>
+                        <cit type="example">
+				<quote>Menurut anggaran (UNICRL 1999) sejak sedekad yang lalu <emph>tidak kurang</emph> dari 400,000 wanita telah diperdagangkan dari Ukraine.</quote>
+                           <cit type="translation">
+                              <quote>推定（UNICRL 1999）では1世紀前から少なくとも40万人の女性がウクライナから人身売買されている。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                     <sense n="4">
+                        <def></def>
+                        <cit type="example">
+				<quote>Malah <emph>tidak kurang</emph> ada pasangan bertemu jodoh melalui perkenalan di alam siber.</quote>
+                           <cit type="translation">
+                              <quote>それどころか、ネット環境での出会いを通じて生涯の伴侶に出会うカップルも少なからずいる。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+               </re>
+               <!-- 副詞 -->
+               <gramGrp>
+                  <pos>副</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>あまり〜ない</def>
+                  <cit type="example">
+                     <quote>Bas itu mungkin berada dalam keadaan yang <emph>kurang</emph> baik.</quote>
+                     <cit type="translation">
+                        <quote>そのバスはたぶんあまりよくない状態だった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>"Yang cantik je menjadi pilihan, yang <emph>kurang</emph> cantik dipinggirkan," Maziah mencebik bibir.</quote>
+                     <cit type="translation">
+                        <quote>「選ばれるのはかわいい子だけ、あまりかわいくない子は除け者にされる」とマズィアは口を尖らせた。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+                  <cit type="example">
+                     <quote>Entahlah, saya <emph>kurang</emph> faham.</quote>
+                     <cit type="translation">
+                        <quote>さあ、よく分かりません。</quote>
+                     </cit>
+                  </cit>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <usg type="register">口語）</usg>
+               <sense n="1">
+                  <def>まける、減らす</def>
+                  <cit type="example">
+                     <quote>Sepasang harganya lima belas ringgit, tapi boleh <emph>kurang</emph> lagi.</quote>
+                     <cit type="translation">
+                        <quote>1足、値段は15リンギットだけどさらにまけられるよ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
 
          <entry type="root">
             <!-- 語根 la-->
