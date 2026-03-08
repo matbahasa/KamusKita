@@ -15965,7 +15965,7 @@
                <pron>pastu</pron>
             </form>
             <xr type="abbr">
-               lepas tu<lbl>の短縮形</lbl>
+		    <ref target="#cc-46434">lepas</ref> tu<lbl>の短縮形</lbl>
             </xr>
             <!-- 語形 pastu-->
             <entry xml:id="ec-33354" resp="Uchida">
