@@ -245,6 +245,69 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 abang -->
+            <form>
+               <orth>abang</orth>
+               <pron>abang</pron>
+            </form>
+            <!-- 語形 abang -->
+            <entry xml:id="cc-3710" resp="Onuma">
+               <form>abang</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>兄</def>
+                  <cit type="example">
+                     <quote><emph>abang</emph> ipar</quote>
+                     <cit type="translation">
+                        <quote>義理の兄</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Mulai tahun depan, <emph>abang</emph> saya akan bekerja di bank.</quote>
+                     <cit type="translation">
+                        <quote>来年から兄は銀行に勤めます。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+               <sense n="a">
+                  <usg type="gram">呼びかけ（血縁関係のない年上男性、男性の恋人、夫にも用いられる）</usg>
+                  <def>お兄さん、ダーリン、すみません</def>
+                  <cit type="example">
+                     <quote><emph>Abang</emph>, boleh hantar saya ke KL Sentral?</quote>
+                     <cit type="translation">
+                        <quote>すみません、KLセントラルまで送ってもらえますか？</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="b">
+                  <usg type="gram">1・2人称の代名詞代用表現（血縁関係のない年上男性、男性の恋人、夫にも用いられる）</usg>
+                  <def>兄さん、お兄ちゃん、ダーリン</def>
+                  <cit type="example">
+			  <quote>Abang, sayang rindu <emph>abang</emph>lah.</quote>
+                     <cit type="translation">
+                        <quote>ダーリン、あなたに会いたいよ～。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="c">
+                  <usg type="gram">敬称（血縁関係のない年上男性にも用いられる）</usg>
+                  <def>～兄さん</def>
+                  <cit type="example">
+			  <quote><emph>Abang</emph> Zahid</quote>
+                     <cit type="translation">
+                        <quote>ザヒッド兄さん</quote>
+                     </cit>
+                  </cit>
+               </sense>
+       </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 ada -->
             <form>
                <orth>ada</orth>
