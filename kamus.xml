@@ -2430,6 +2430,21 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 bahase -->
+            <form>
+               <orth>bahase</orth>
+               <pron>bahase</pron>
+            </form>
+            <!-- 語形 bahase -->
+            <entry xml:id="ec-76237" resp="Nomoto">
+               <form>bahase</form>
+               <xr type="cf">
+                  <ref target="#cc-9373">bahasa</ref>
+               </xr>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 bahawa-->
             <form>
                <orth>bahawa</orth>
@@ -12537,8 +12552,17 @@
                <re>
                   <entry>
                      <form>lepas tu</form>
-                     <sense>
-                        <def>それから、それで</def>
+                     <sense n="1">
+                        <def>その後、それから</def>
+                        <cit type="example">
+                           <quote>Kita makan dulu, <emph>lepas tu</emph> baru kita bincang.</quote>
+                           <cit type="translation">
+                              <quote>ますは食事をして、それから話し合おう。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                     <sense n="2">
+                        <def>それで、さらに</def>
                         <cit type="example">
                            <quote>Memang hebat produk ni. <emph>Lepas tu</emph> terus order dua
                               kotak lagi.</quote>
@@ -15931,6 +15955,62 @@
                      </sense>
                   </entry>
                </re>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 pastu-->
+            <form>
+               <orth>pastu</orth>
+               <pron>pastu</pron>
+            </form>
+            <xr type="abbr">
+               lepas tu<lbl>の短縮形</lbl>
+            </xr>
+            <!-- 語形 pastu-->
+            <entry xml:id="ec-33354" resp="Uchida">
+               <form>pastu</form>
+               <usg type="register">口語</usg>
+               <!-- 副詞 -->
+               <gramGrp>
+                  <pos>副</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>その後、それから</def>
+                  <cit type="example">
+                     <quote>Dulu hari Ahad petang-petang, <emph>pastu</emph> dia dah tukar hari Ahad malam.</quote>
+                     <cit type="translation">
+                        <quote>前は日曜日の午後だったけど、その後、彼（女）は日曜日の夜に変更した。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Mula-mula slow <emph>pastu</emph> laju sampai 120 km sejam.</quote>
+                     <cit type="translation">
+                        <quote>始めはスローでその後時速120kmにまで速くなった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Tak lame <emph>pastu</emph> tanye aku balik pasal emas.</quote>
+                     <cit type="translation">
+                        <quote>それからほどなくして、あたしは金について聞き返した。</quote>
+                     </cit>
+                  </cit>
+	  </sense>
+               <sense n="2">
+                  <def>それで、さらに</def>
+                  <cit type="example">
+			  <quote>Apa masalah u? Saya percaya cakap u, <emph>pastu</emph> u buat camni kat saya.</quote>
+                     <cit type="translation">
+                        <quote>何が問題なの？私は言うことを信じてたのに、それで私にこんなふうにするなんて。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Lainlah kalau Fauziah dah ada kekasih hati <emph>pastu</emph> dipaksa kahwin dengan pilihan orang tua.</quote>
+                     <cit type="translation">
+                        <quote>ファウズィアにもう心から愛する恋人がいて、それで親が決めた人と結婚させられるなら話は別だ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
             </entry>
          </entry>
 
