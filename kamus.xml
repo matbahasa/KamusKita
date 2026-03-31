@@ -14420,6 +14420,46 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 mesti -->
+            <form>
+               <orth>mesti</orth>
+               <pron>mesti</pron>
+            </form>
+            <!-- 語形 mesti -->
+            <entry xml:id="cc-51006" resp="Uemiya">
+               <form>mesti</form>
+               <!-- 助動詞 -->
+               <gramGrp>
+                  <pos>助</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>〜しなければならない</def>
+                  <cit type="example">
+                     <quote>Semasa kelas kita <emph>mesti</emph> mendengar cakap guru.</quote>
+                     <cit type="translation">
+                        <quote>授業中は先生の話をよく聞かなければなりません。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>〜に違いない、必ず～のはずだ</def>
+                  <cit type="example">
+                     <quote>Satu hari nanti, bapak <emph>mesti</emph> tahu yang kita tak bersalah.</quote>
+                     <cit type="translation">
+                        <quote>いつの日か父さんも私達が悪くないって分かるに違いない。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Tapi aku rasa tempat mereka pun <emph>mesti</emph> ada kerja jugak kan, takkan takde kerja langsung?</quote>
+                     <cit type="translation">
+                        <quote>でも彼らの所にだって必ず仕事があるはずだよね、仕事が全くないなんてあり得なくない？</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 mungkin-->
             <form>
                <orth>mungkin</orth>
