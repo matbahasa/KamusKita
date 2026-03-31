@@ -294,7 +294,7 @@
                   </cit>
                </sense>
                <sense n="c">
-                  <usg type="gram">敬称（血縁関係のない年上男性にも用いられる）</usg>
+                  <usg type="gram">(A~) 敬称（血縁関係のない年上男性にも用いられる）</usg>
                   <def>～兄さん</def>
                   <cit type="example">
 			  <quote><emph>Abang</emph> Zahid</quote>
@@ -469,6 +469,87 @@
                <xr type="cf">
                   <ref target="#cc-4005">ada</ref>
                </xr>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 adik -->
+            <form>
+               <orth>adik</orth>
+               <pron>adik</pron>
+            </form>
+            <!-- 語形 adik -->
+            <entry xml:id="cc-4154" resp="Takahashi">
+               <form>adik</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>弟、妹</def>
+                  <cit type="example">
+                     <quote><emph>adik</emph> lelaki</quote>
+                     <cit type="translation">
+                        <quote>弟</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>adik</emph> perempuan</quote>
+                     <cit type="translation">
+                        <quote>妹</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>adik</emph> ipar</quote>
+                     <cit type="translation">
+                        <quote>義理の弟、妹</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Bidin, anak orang kaya telah jatuh hati kepada Ani, <emph>adik</emph> Mamat.</quote>
+                     <cit type="translation">
+                        <quote>金持ちの子供のビディンはママットの妹のアニに恋をした。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Rupa-rupanya Rose Maylie adalah <emph>adik</emph> kepada ibu Oliver; maka dia adalah ibu saudara kepada Oliver.</quote>
+                     <cit type="translation">
+                        <quote>どうやらローズ・メイリーはオリヴァーの母の妹であるようなので、オリヴァーにとって叔母ということになる。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+               <sense n="a">
+                  <usg type="gram">呼びかけ（血縁関係のない年下、恋人、妻にも用いられる）</usg>
+                  <def>君、ハニー、すみません</def>
+                  <cit type="example">
+                     <quote><emph>Adik</emph>, bagi saya nasi lemak dua bungkus.</quote>
+                     <cit type="translation">
+                        <quote>君、ナシルマッを2パックちょうだい。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="b">
+                  <usg type="gram">1・2人称の代名詞代用表現（血縁関係のない年下、恋人、妻にも用いられる）</usg>
+                  <def>僕、私、君、ハニー</def>
+                  <cit type="example">
+			  <quote><emph>Adiak</emph> ada jual apa hari ini?</quote>
+                     <cit type="translation">
+                        <quote>君は今日何を売っているの？</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="c">
+                  <usg type="gram">(A~) 敬称（血縁関係のない年下に対して）</usg>
+                  <def>～君、ちゃん</def>
+                  <cit type="example">
+			  <quote>Akak, ni <emph>Adik</emph> Hairi.</quote>
+                     <cit type="translation">
+                        <quote>お姉さん、（ここにいるのは）ハイリですよ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+       </sense>
             </entry>
          </entry>
 
@@ -9937,7 +10018,7 @@
                </sense>
             </entry>
             <!-- 語形 berkata-->
-            <entry xml:id="cc-36491" resp="担当者">
+            <entry xml:id="cc-36491" resp="Nomaguchi">
                <form>berkata</form>
                <!-- 動詞 -->
                <gramGrp>
@@ -9952,7 +10033,7 @@
                      </cit>
                   </cit>
                   <cit type="example">
-                     <quote>Kerajaan Pakistan berkata mereka tidak mengetahui tentang kematian beliau.</quote>
+			  <quote>Kerajaan Pakistan <emph>berkata</emph> mereka tidak mengetahui tentang kematian beliau.</quote>
                      <cit type="translation">
                         <quote>パキスタン政府は、彼の死について知らないと言った。</quote>
                      </cit>
@@ -9970,9 +10051,9 @@
                      </cit>
                   </cit>
                   <cit type="example">
-                     <quote><emph>berkata</emph> siang melihat-lihat, berkata malam mendengar-dengar</quote>
+                     <quote><emph>berkata</emph> siang melihat-lihat, <emph>berkata</emph> malam mendengar-dengar</quote>
                      <cit type="translation">
-                        <quote>【諺】壁に耳あり、障子に目あり（直訳は「昼話す時はよく見て、夜話す時はよく聞きなさい」）</quote>
+                        <quote>【諺】壁に耳あり、障子に目あり（直訳は「昼話す時はよく見て、夜話す時はよく聞く」）</quote>
                      </cit>
                   </cit>
                </sense>
