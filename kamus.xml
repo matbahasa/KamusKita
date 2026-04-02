@@ -6133,8 +6133,6 @@
                         <def>ひとりでに、自力で、一人で </def>
                      </sense>
                   </entry>
-               </re>
-               <re>
                   <entry>
                      <form>dengan sendirinya</form>
                      <sense>
@@ -6231,6 +6229,131 @@
                      </sense>
                   </entry>
                </re>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 depan-->
+            <form>
+               <orth>depan</orth>
+               <pron>depan</pron>
+            </form>
+            <!-- 語形 depan-->
+            <entry xml:id="cc-19085" resp="Uemiya">
+               <form>depan</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <def>前方、正面</def>
+                  <cit type="example">
+                     <quote>ke <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>前へ</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>depan</emph> belakang</quote>
+                     <cit type="translation">
+                        <quote>前後</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>barisan <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>最前線</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>cermin <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>フロントガラス</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>gigi <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>前歯</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>lampu <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>ヘッドライト</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Ada kucing di <emph>depan</emph> rumah.</quote>
+                     <cit type="translation">
+                        <quote>家の前に猫がいる。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>muka [halaman] depan</form>
+                     <sense n="1">
+                     <sense n="a">
+                        <def>表紙</def>
+			  <cit type="example">
+			     <quote>Sharifah adalah antara artis penghias <emph>muka depan</emph> majalah yang terlaris di Malaysia.</quote>
+			     <cit type="translation">
+				<quote>射りふぁはマレーシアで最も売れている雑誌の表紙を飾るアーティストの一人だ。</quote>
+			     </cit>
+			  </cit>
+                     </sense>
+                     <sense n="b">
+                        <def>（新聞の）一面</def>
+                     </sense>
+                     </sense>
+                  </entry>
+               </re>
+               <!-- 形容詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <usg type="gram">時間を表す語に付いて</usg>
+                  <def>次の</def>
+                  <cit type="example">
+                     <quote>masa <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>将来、未来</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>minggu <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>来週</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>bulan <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>来月</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>tahun <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>来年</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>kala <emph>depan</emph></quote>
+                     <cit type="translation">
+                        <quote>未来時制</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Anak-anak itu dilatih untuk menghadapi kehidupan masa <emph>depan</emph> mereka.</quote>
+                     <cit type="translation">
+                        <quote>その子供達は、自らの将来の暮らしに向き合うことを訓練される。</quote>
+                     </cit>
+                  </cit>
+	  </sense>
             </entry>
          </entry>
 
@@ -11747,18 +11870,6 @@
          </entry>
 
          <entry type="root">
-            <!-- 語根 lah-->
-            <form>
-               <orth>lah</orth>
-               <pron>lah</pron>
-            </form>
-            <!-- 語形 lah-->
-            <entry xml:id="cc-43981" resp="担当者">
-               <form>lah</form>
-            </entry>
-         </entry>
-
-         <entry type="root">
             <!-- 語根 lagi-->
             <form>
                <orth>lagi</orth>
@@ -11992,6 +12103,18 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 lah-->
+            <form>
+               <orth>lah</orth>
+               <pron>lah</pron>
+            </form>
+            <!-- 語形 lah-->
+            <entry xml:id="cc-43981" resp="担当者">
+               <form>lah</form>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 lain-->
             <form>
                <orth>lain</orth>
@@ -12080,6 +12203,52 @@
                      </sense>
                   </entry>
                </re>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 laku -->
+            <form>
+               <orth>laku</orth>
+               <pron>laku</pron>
+            </form>
+            <!-- 語形 berlaku -->
+            <entry xml:id="cc-44163" resp="Onuma">
+               <form>berlaku</form>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>起こる、発生する</def>
+                  <cit type="example">
+                     <quote>Apakah yang <emph>berlaku</emph> kelak?</quote>
+                     <cit type="translation">
+                        <quote>後々、何が起きるのでしょうか？</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Pelbagai perkara <emph>berlaku</emph> sepanjang mereka hidup berjiran.</quote>
+                     <cit type="translation">
+                        <quote>彼らが隣合って暮らしている間に様々なことが起きた。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Selepas Revolusi Iran 1979 <emph>berlaku</emph> krisis antara Iran dengan Barat.</quote>
+                     <cit type="translation">
+                        <quote>1979年のイラン革命の後、イランと西側諸国との間に危機が発生した。</quote>
+                     </cit>
+                  </cit>
+	  </sense>
+               <sense n="2">
+                  <def>振舞う</def>
+                  <cit type="example">
+                     <quote>Adik saya <emph>berlaku</emph> sopan di sekolah.</quote>
+                     <cit type="translation">
+                        <quote>私の弟［妹］は学校で礼儀正しく振舞う。</quote>
+                     </cit>
+                  </cit>
+	  </sense>
             </entry>
          </entry>
 
