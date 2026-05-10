@@ -636,6 +636,148 @@
  </entry>
 
          <entry type="root">
+            <!-- 語根 ahli -->
+            <form>
+               <orth>ahli</orth>
+               <pron>ahli</pron>
+            </form>
+            <!-- 語形 ahli -->
+            <entry xml:id="cc-4706" resp="Ogawara">
+               <form>ahli</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>メンバー、会員</def>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> bomba</quote>
+                     <cit type="translation">
+                        <quote>消防士、消防隊員</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> Dewan Undangan Negeri</quote>
+                     <cit type="translation">
+                        <quote>州議会議員（ADUNと略される）</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> jawatankuasa</quote>
+                     <cit type="translation">
+                        <quote>委員</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> lembaga pengarah</quote>
+                     <cit type="translation">
+                        <quote>重役</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya panggil semua <emph>ahli</emph> keluarga sambil bertanya apakah mereka sudah makan atau belum.</quote>
+                     <cit type="translation">
+                        <quote>私はもう食事が済んだかどうかを尋ねつつ、家族のみんなを呼んだ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Dia adalah salah seorang <emph>ahli</emph> panel dalam satu forum khusus menyentuh tentang hal ehwal penterjemahan karya-karya kreatif.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）は創作作品の翻訳について扱う特別フォーラムにおけるパネリストの一人だ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Setelah menguasai topik kecil sendiri, murid akan mengajar rakan-rakan lain dalam kumpulannya sehingga semua <emph>ahli</emph> kumpulan menguasai semua topik kecil itu.</quote>
+                     <cit type="translation">
+                        <quote>各自の小トピックの内容を習得した後、児童は自分のグループの他の同級生達に教え、グループのメンバー全員がすべての小トピックの内容を習得する。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Penduduk berkata <emph>ahli</emph> bomba tidak dapat mengawal api kerana saluran paip sudah aktif selama lebih kurang 5 jam selepas letupan.</quote>
+                     <cit type="translation">
+                        <quote>住人は、爆発後およそ5時間の間パイプラインが動いていたため、消防隊員は鎮火することができなかったと言っている。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>専門家</def>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> akademik</quote>
+                     <cit type="translation">
+                        <quote>学者</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> bedah</quote>
+                     <cit type="translation">
+                        <quote>外科医</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> dermatologi</quote>
+                     <cit type="translation">
+                        <quote>皮膚科医</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> nujum</quote>
+                     <cit type="translation">
+                        <quote>占い師、占星術師</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> perniagaan</quote>
+                     <cit type="translation">
+                        <quote>ビジネスパーソン</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> politik</quote>
+                     <cit type="translation">
+                        <quote>政治家</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> sains</quote>
+                     <cit type="translation">
+                        <quote>科学者</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> sihir</quote>
+                     <cit type="translation">
+                        <quote>魔法使い</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> sukan</quote>
+                     <cit type="translation">
+                        <quote>スポーツ選手</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ahli</emph> urologi</quote>
+                     <cit type="translation">
+                        <quote>泌尿器科医</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Ini adalah akhir hidup saya sebagai seorang <emph>ahli</emph> politik.</quote>
+                     <cit type="translation">
+                        <quote>これが政治家としての私の人生の最後である。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Ada beberapa sebab yang menjadikan penduduk Mekah sebagai saudagar yang terkenal dan <emph>ahli</emph> perniagaan yang masyhur.</quote>
+                     <cit type="translation">
+                        <quote>メッカの住民が有名な商人や著名なビジネスパーソンとなった理由はいくつかある。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 air -->
             <form>
                <orth>air</orth>
@@ -3765,6 +3907,44 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 best -->
+            <form>
+               <orth>best</orth>
+               <pron>bés</pron>
+            </form>
+            <!-- 語形 best -->
+            <entry xml:id="ec-48660" resp="Nomoto">
+               <form>best</form>
+               <!-- 形容詞 -->
+               <gramGrp>
+                  <pos>形</pos>
+               </gramGrp>
+               <usg type="register">口語</usg>
+               <sense>
+                  <def>いい</def>
+                  <cit type="example">
+			  <quote>Pastu macam lagu die sangat <emph>best</emph> la.</quote>
+                     <cit type="translation">
+			     <quote>で、何か、それの歌がすごくいいんだよ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Bandar memang tak <emph>best</emph>.</quote>
+                     <cit type="translation">
+			     <quote>都会は確かによくない。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Yang paling <emph>best</emph> adalah pertemuan aku dengan orang yang mula-mula memperkenalkan radio amatur kepada aku.</quote>
+                     <cit type="translation">
+			     <quote>一番よかったのは最初にアマチュア無線を僕に紹介してくれた人と会えたことだ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 betul -->
             <form>
                <orth>betul</orth>
@@ -5864,8 +6044,93 @@
                <pron>datang</pron>
             </form>
             <!-- 語形 datang -->
-            <entry xml:id="cc-18166" resp="担当者">
+            <entry xml:id="cc-18166" resp="Kashiwa">
                <form>datang</form>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense>
+                  <def>来る</def>
+                  <cit type="example">
+                     <quote>Saya dengar ada pelajar baru akan <emph>datang</emph> bulan depan.</quote>
+                     <cit type="translation">
+                        <quote>来月から新しい生徒が来るそうです。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya <emph>datang</emph> ke negara ini tiga tahun yang lalu.</quote>
+                     <cit type="translation">
+                        <quote>私は三年前この国へ来ました。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Pelajar antarabangsa akan <emph>datang</emph> dari China bulan depan.</quote>
+                     <cit type="translation">
+                        <quote>来月中国から留学生が来ます。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Bapak aku mesti <emph>datang</emph> sini.</quote>
+                     <cit type="translation">
+                        <quote>父さんはここに来るに違いない。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Nama penyakit Hansen <emph>datang</emph> daripada orang yang menjumpai Mycobacterium leprae, G. A. Hansen.</quote>
+                     <cit type="translation">
+                        <quote>ハンセン病という名前はらい菌を発見したG. A. ハンセンから来ている。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Bila nak buka puasa <emph>datang</emph> seorang fakir dan minta sedekah.</quote>
+                     <cit type="translation">
+                        <quote>断食を終えようとしていると、一人の貧しい人がやって来て施しを求めてきた。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>akan datang</form>
+                     <sense>
+                        <def>来｛きた｝る、将来の</def>
+			<cit type="example">
+				<quote>masa (yang) <emph>akan datang</emph></quote>
+				<cit type="translation">
+					<quote>将来、未来</quote>
+				</cit>
+			</cit>
+			<cit type="example">
+				<quote>generasi (yang) <emph>akan datang</emph></quote>
+				<cit type="translation">
+					<quote>将来の世代</quote>
+				</cit>
+			</cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>datang bulan</form>
+                     <sense n="1">
+                        <def>月経、生理</def>
+                     </sense>
+                     <sense n="2">
+                        <def>生理が来る</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>selamat datang</form>
+                     <sense>
+                        <def>ようこそ、いらっしゃいませ</def>
+			<cit type="example">
+				<quote><emph>Selamat datang</emph> ke Malaysia.</quote>
+				<cit type="translation">
+					<quote>マレーシアへようこそ。</quote>
+				</cit>
+			</cit>
+                     </sense>
+                  </entry>
+               </re>
             </entry>
          </entry>
 
@@ -6312,7 +6577,7 @@
                </re>
                <!-- 形容詞 -->
                <gramGrp>
-                  <pos>名</pos>
+                  <pos>形</pos>
                </gramGrp>
                <sense>
                   <usg type="gram">時間を表す語に付いて</usg>
@@ -7127,8 +7392,33 @@
                <pron>hadap</pron>
             </form>
             <!-- 語形 terhadap-->
-            <entry xml:id="cc-28105" resp="担当者">
+            <entry xml:id="cc-28105" resp="Kashiwa">
                <form>terhadap</form>
+               <!-- 前置詞 -->
+               <gramGrp>
+                  <pos>前</pos>
+               </gramGrp>
+               <sense>
+                  <def>～に対して</def>
+                  <cit type="example">
+                     <quote>Dia tidak dapat mengatakan betapa terima kasihnya <emph>terhadap</emph> orang itu.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）はその人に対してどれほど感謝しているかを言い表すことができなかった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Jangan sekali-kali melakukan kezaliman <emph>terhadap</emph> mereka.</quote>
+                     <cit type="translation">
+                        <quote>決して彼らに対して残虐行為を行ってはならない。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Yang menarik dari wanita ini, dia bertanggungjawab <emph>terhadap</emph> apa yang pernah dilakukannya.</quote>
+                     <cit type="translation">
+                        <quote>この女性の興味深い点は、彼女が自分の行ったことに対して責任を負っていることだ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
             </entry>
          </entry>
 
@@ -8654,6 +8944,16 @@
                      </cit>
                   </cit>
                </sense>
+               <sense n="4">
+                  <usg type="register">口語</usg>
+                  <def>話題になる、バズる</def>
+		  <cit type="example">
+			  <quote>Tekanan ini wujud dalam bentuk perbandingan&#8212;siapa lebih meriah, siapa lebih lengkap, siapa lebih "<emph>menjadi</emph>".</quote>
+			  <cit type="translation">
+				  <quote>この圧力は比較の形で存在する――誰がより盛大で、誰がより完璧で、誰がより「バズる」かというように。</quote>
+			  </cit>
+		  </cit>
+	  </sense>
             </entry>
          </entry>
 
@@ -12984,6 +13284,191 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 luar -->
+            <form>
+               <orth>luar</orth>
+               <pron>luar</pron>
+            </form>
+            <!-- 語形 luar -->
+            <entry xml:id="cc-47959" resp="Nomaguchi">
+               <form>luar</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <def>外、外部</def>
+                  <cit type="example">
+                     <quote>kerja <emph>luar</emph></quote>
+                     <cit type="translation">
+                        <quote>出張、よそでの仕事</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>kot <emph>luar</emph></quote>
+                     <cit type="translation">
+                        <quote>オーバー、コート</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>luar</emph> bandar</quote>
+                     <cit type="translation">
+                        <quote>郊外</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>luar</emph> dalam</quote>
+                     <cit type="translation">
+                        <quote>中と外、内と外</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>luar</emph> nikah</quote>
+                     <cit type="translation">
+                        <quote>婚外</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>luar</emph> pantai [pesisir]</quote>
+                     <cit type="translation">
+                        <quote>沖</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>luar</emph> talian</quote>
+                     <cit type="translation">
+                        <quote>オフライン</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>pesakit <emph>luar</emph></quote>
+                     <cit type="translation">
+                        <quote>外来患者</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>kehamilan [kanduangan] <emph>luar</emph> rahim</quote>
+                     <cit type="translation">
+                        <quote>子宮外妊娠</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Di <emph>luar</emph> sejuk?</quote>
+                     <cit type="translation">
+                        <quote>外は寒いですか？</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Dia cakap hati-hati kahwin dengan orang <emph>luar</emph>.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）はよそ者と結婚するなら気を付けろと言った。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>luar biasa</form>
+                     <sense>
+                        <def>異常な、並外れた</def>
+                        <cit type="example">
+                           <quote>Ini menciptakan kegemparan <emph>luar biasa</emph> di kalangan kaum Muslimin.</quote>
+                           <cit type="translation">
+                              <quote>これによりイスラーム教徒の間にひどい騒動が引き起こされた。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>luar jangkaan [jangka/dugaan]</form>
+                     <sense>
+                        <def>予想外、想定外</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>(di) luar kepala</form>
+                     <sense>
+                        <def>そらで、暗記して</def>
+                        <cit type="example">
+                           <quote>Hal ini dilakukan berulang-ulang sampai anak hafal <emph>di luar kepala</emph>.</quote>
+                           <cit type="translation">
+                              <quote>これは子供がそらで覚えるまで何度も行われる。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>luar kurikulum</form>
+                     <sense>
+                        <def>課外の</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>luar negara</form>
+                     <sense>
+                        <def>外国</def>
+                        <cit type="example">
+                           <quote>belajar di <emph>luar negara</emph></quote>
+                           <cit type="translation">
+                              <quote>留学する</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>luar negeri</form>
+                     <sense>
+                        <def>海外、外国</def>
+                        <cit type="example">
+                           <quote>Dia melanjutkan pelajaranya di <emph>luar negeri</emph>.</quote>
+                           <cit type="translation">
+                              <quote>彼（女）は海外に進学した。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>luar sana</form>
+                     <sense>
+                        <def>世の中</def>
+                        <cit type="example">
+				<quote>Mungkin karya ini tidak sehebat karya-karya di <emph>luar sana</emph>.</quote>
+                           <cit type="translation">
+                              <quote>この作品は世の中にある他の作品ほどすごくはないだろう。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+               </re>
+               <!-- 形容詞 -->
+               <gramGrp>
+                  <pos>形</pos>
+               </gramGrp>
+               <sense>
+                  <def>外国の、外国に関する</def>
+                  <cit type="example">
+                     <quote>dasar <emph>luar</emph></quote>
+                     <cit type="translation">
+                        <quote>外交政策、外交方針</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>menteri <emph>luar</emph></quote>
+                     <cit type="translation">
+                        <quote>外務大臣、外相</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>negara <emph>luar</emph></quote>
+                     <cit type="translation">
+                        <quote>外国</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 macam-->
             <form>
                <orth>macam</orth>
@@ -13926,7 +14411,6 @@
                      </sense>
                   </entry>
                </re>
-
                <!-- 前置詞・接続詞 -->
                <gramGrp>
                   <pos>前・接</pos>
@@ -13956,6 +14440,61 @@
             <entry xml:id="cc-49747" resp="担当者">
                <form>semasa</form>
             </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 masalah -->
+            <form>
+               <orth>masalah</orth>
+               <pron>masalah</pron>
+            </form>
+            <!-- 語形 masalah -->
+            <entry xml:id="cc-49775" resp="Kashiwa">
+               <form>masalah</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <def>問題（点）</def>
+                  <cit type="example">
+                     <quote>Disiplin merupakan <emph>masalah</emph> yang serius pada zaman sekarang.</quote>
+                     <cit type="translation">
+                        <quote>規律は現代における深刻な問題である。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Kita rasa sudah tidak ada <emph>masalah</emph>.</quote>
+                     <cit type="translation">
+                        <quote>私達はもう問題がないと思っている。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Apakah cara jalan yang terbaik untuk saya menyelesaikan <emph>masalah</emph> saya ini?</quote>
+                     <cit type="translation">
+                        <quote>この私の問題を解決する最善の方法は何でしょうか？</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Apabila adik-adiknya menghadapi <emph>masalah</emph> dalam pembelajaran, Hafiz akan menolong mereka.</quote>
+                     <cit type="translation">
+                        <quote>弟（妹）達が勉強で問題に直面した時、ハフィズは彼らを助けるつもりだ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Pihak sekolah juga bertanggungjawab dalam <emph>masalah</emph> disiplin para pelajar.</quote>
+                     <cit type="translation">
+                        <quote>学校側もまた、生徒達の規律の問題に関して責任を負う。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>menanggung <emph>masalah</emph></quote>
+                     <cit type="translation">
+                        <quote>問題を抱える</quote>
+                     </cit>
+                  </cit>
+               </sense>
+       </entry>
          </entry>
 
          <entry type="root">
@@ -18765,6 +19304,62 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 sedang -->
+            <form>
+               <orth>sedang</orth>
+               <pron>sedang</pron>
+            </form>
+            <!-- 語形 sedang -->
+            <entry xml:id="cc-68270" resp="Uchida">
+               <form>sedang</form>
+               <!-- 助動詞 -->
+               <gramGrp>
+                  <pos>助</pos>
+               </gramGrp>
+               <sense>
+                  <def>〜している（最中だ）</def>
+                  <cit type="example">
+                     <quote>Yusuf <emph>sedang</emph> tidur.</quote>
+                     <cit type="translation">
+                        <quote>ユスフは寝ている。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Masjid baru <emph>sedang</emph> dalam pembinaan.</quote>
+                     <cit type="translation">
+                        <quote>新しいモスクが現在建設中だ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Rumah sewa kami macam perang yang <emph>sedang</emph> berlangsung.</quote>
+                     <cit type="translation">
+                        <quote>私達の借りている家は現在進行中の戦争みたいになっている。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Mengenai undang-undang pula, Negara Brunei Darussalam telah dan <emph>sedang</emph> berusaha untuk menyesuaikan undang-undang negara ini supaya selaras dengan kehendak Syarak.</quote>
+                     <cit type="translation">
+                        <quote>法律面においては、ブルネイ・ダルサラームは国の法律をシャリーアの要請に沿うよう調整しようとしてきたし、今もそうしている。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 接続詞 -->
+               <gramGrp>
+                  <pos>接</pos>
+               </gramGrp>
+               <sense>
+                  <def>〜していると</def>
+                  <cit type="example">
+                     <quote><emph>Sedang</emph> mereka tidur, mereka telah dikejutkan oleh satu lembaga yang dikatakan adalah jelmaan harimau jadian.</quote>
+                     <cit type="translation">
+                        <quote>彼らが眠っていると、化身して虎に変身したと言われる人影に起こされた。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 sekarang-->
             <form>
                <orth>sekarang</orth>
@@ -19534,8 +20129,156 @@
                <pron>suka</pron>
             </form>
             <!-- 語形 suka-->
-            <entry xml:id="cc-74208" resp="担当者">
+            <entry xml:id="cc-74208" resp="Uemiya">
                <form>suka</form>
+               <gramGrp>
+               <!-- 形容詞 -->
+                  <pos>形</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>好きだ、気に入った</def>
+                  <cit type="example">
+                     <quote>Saya <emph>suka</emph> kedua-dua roti dan nasi.</quote>
+                     <cit type="translation">
+                        <quote>私はパンもごはんも両方好きだ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Arwah ibu cukup <emph>suka</emph> dengan dia sehinggakan dia suruh aku kahwin dengan Ashraf.</quote>
+                     <cit type="translation">
+                        <quote>亡くなった母はアシュラフのことをとても気に入って、私に結婚するように言うほどだった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya <emph>suka</emph> kepada warna perang juga.</quote>
+                     <cit type="translation">
+                        <quote>私は茶色も好きだ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Dia seorang yang peramah dan sangat <emph>suka</emph> pada alam semula jadi.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）は親しみやすい人で自然が非常に好きだ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Maziah cukup tak <emph>suka</emph> kat dia dulu.</quote>
+                     <cit type="translation">
+                        <quote>マズィアは前は彼（女）がすごく嫌いだった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Siapa yang <emph>suka</emph> akan orang yang cepat marah?</quote>
+                     <cit type="translation">
+                        <quote>誰がすぐに怒る人のことを好きになる？</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Kita tak <emph>suka</emph> tengok cerita hantu.</quote>
+                     <cit type="translation">
+                        <quote>私達はお化けの話を見るのが好きではない。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Orang Indonesia memang <emph>suka</emph> buat demonstrasi ek?</quote>
+                     <cit type="translation">
+                        <quote>インドネシア人は本当にデモをするのが好きだよね？</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>嬉しい、喜んだ</def>
+                  <cit type="example">
+                     <quote>Semua orang tak <emph>suka</emph> bila kena marah.</quote>
+                     <cit type="translation">
+                        <quote>誰だって怒られたら嬉しくない。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>I <emph>suka</emph> bila you ceritakan pasal diri you.</quote>
+                     <cit type="translation">
+                        <quote>ミーはユーが自分のこと話してくれると嬉しいよ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Jangan nak buat cerita mengarut eh, kau ingat aku <emph>suka</emph> ke kau buat macam tu?</quote>
+                     <cit type="translation">
+                        <quote>でたらめな話しようとしないでよ。あんた、そんなことしてあたしが喜ぶとでも思ったの？</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>suka atau tidak [tak] (suka)</form>
+                     <sense>
+                        <def>好むと好まざるとに関わらず</def>
+                        <cit type="example">
+                           <quote><emph>Suka atau tidak</emph>, mereka terpaksa bersabar untuk mengetahui kebenaran.</quote>
+                           <cit type="translation">
+                              <quote>好むと好まざるとに関わらず、彼らは真実を知るために耐えなければならない。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>suka duka</form>
+                     <sense>
+                        <def>喜びと悲しみ、苦楽</def>
+                        <cit type="example">
+				<quote>Mereka melalui pelbagai <emph>suka duka</emph> hidup berumah tangga selepas berkahwin sejurus tamatnya SPM.</quote>
+                           <cit type="translation">
+                              <quote>彼らはSPMが終わって即、結婚した後、家庭を築き、様々な喜びや悲しみを経てきた。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>suka hati</form>
+                     <sense n="1">
+                        <def>好きにする、勝手にする</def>
+                        <cit type="example">
+				<quote><emph>Suka hati</emph> akulah.</quote>
+                           <cit type="translation">
+                              <quote>あたしの勝手でしょ。</quote>
+                           </cit>
+                        </cit>
+                        <cit type="example">
+				<quote>Di sini tak boleh hisap rokok dan keluar ikut <emph>suka hati</emph>.</quote>
+                           <cit type="translation">
+                              <quote>ここではタバコを吸ったり好き勝手に出て行ったりしてはいけません。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                     <sense n="2">
+                        <def>嬉しい</def>
+		</sense>
+                  </entry>
+                  <entry>
+                     <form>suka sama suka</form>
+                     <sense>
+                        <def>好きな者同士</def>
+                        <cit type="example">
+                           <quote>Perkahwinan kami pada 2008 atas dasar <emph>suka sama suka</emph>.</quote>
+                           <cit type="translation">
+                              <quote>私達は2008年に相思相愛のもとで結婚しました。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>suka tidak [tak] suka</form>
+                     <sense>
+                        <def>好むと好まざるとに関わらず</def>
+                        <cit type="example">
+                           <quote><emph>Suka tak suka</emph> setahun telah berlalu. Banyak kerja yang tak sempat dihabiskan.</quote>
+                           <cit type="translation">
+                              <quote>好むと好まざるとに関わらず、1年が過ぎた。終えられなかった仕事がたくさんある。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+               </re>
             </entry>
          </entry>
 
