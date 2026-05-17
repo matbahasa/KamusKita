@@ -1287,6 +1287,82 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 ambik -->
+            <form>
+               <orth>ambik</orth>
+               <pron>ambik</pron>
+            </form>
+            <!-- 語形 ambik -->
+            <entry xml:id="ec-8638" resp="Nomoto">
+               <form>ambik</form>
+               <xr type="cf">
+		       <ref target="#cc-6090">ambil</ref>
+               </xr>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 ambil -->
+            <form>
+               <orth>ambil</orth>
+               <pron>ambil</pron>
+            </form>
+            <!-- 語形 ambil -->
+            <entry xml:id="cc-6090" resp="">
+               <form>ambil</form>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>取る</def>
+                  <cit type="example">
+                     <quote><emph>ambil</emph></quote>
+                     <cit type="translation">
+                        <quote></quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>撮る</def>
+                  <cit type="example">
+                     <quote><emph>ambil</emph></quote>
+                     <cit type="translation">
+                        <quote></quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="3">
+                  <def>（時・金が）かかる</def>
+                  <cit type="example">
+                     <quote><emph>ambil</emph></quote>
+                     <cit type="translation">
+                        <quote></quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="4">
+                  <def>受験する</def>
+                  <cit type="example">
+                     <quote><emph>ambil</emph></quote>
+                     <cit type="translation">
+                        <quote></quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="5">
+                  <def>受け取る、解する</def>
+                  <cit type="example">
+                     <quote><emph>ambil</emph></quote>
+                     <cit type="translation">
+                        <quote></quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 Amerika -->
             <form>
                <orth>Amerika</orth>
@@ -1717,15 +1793,6 @@
                      <def>何か</def>
                   </sense>
                </sense>
-               <sense n="2">
-                  <def>とにかく</def>
-                  <cit type="example">
-                     <quote><emph>Apa</emph> pun, tsunami tetap tsunami.</quote>
-                     <cit type="translation">
-                        <quote>とにかく、津波は津波なのです。</quote>
-                     </cit>
-                  </cit>
-               </sense>
                <!-- 熟語 -->
                <re>
                   <entry>
@@ -1746,27 +1813,6 @@
                      <sense>
                         <def>仕方ない、しょうがない </def>
                      </sense>
-                  </entry>
-                  <entry>
-                     <form>apa kata ~</form>
-                     <sense>
-                        <def>～ってのはどうですか </def>
-                     </sense>
-                     <cit type="example">
-                        <quote><emph>Apa kata</emph> kalau kita jumpa saja esok malam?</quote>
-                        <cit type="translation">
-                           <quote>明日の夜に会うことにするってのはどうですか？</quote>
-                        </cit>
-                     </cit>
-                     <sense>
-                        <def>～は何と言っているか </def>
-                     </sense>
-                     <cit type="example">
-                        <quote><emph>Apa kata</emph> PM dalam isu ini</quote>
-                        <cit type="translation">
-                           <quote>この件に関して総理が何と言っているか</quote>
-                        </cit>
-                     </cit>
                   </entry>
                   <entry>
                      <form>apa hal</form>
@@ -1792,6 +1838,27 @@
                            </cit>
                         </cit>
                      </sense>
+                  </entry>
+                  <entry>
+                     <form>apa kata ~</form>
+                     <sense n="1">
+                        <def>～ってのはどうですか </def>
+                     </sense>
+                     <cit type="example">
+                        <quote><emph>Apa kata</emph> kalau kita jumpa saja esok malam?</quote>
+                        <cit type="translation">
+                           <quote>明日の夜に会うことにするってのはどうですか？</quote>
+                        </cit>
+                     </cit>
+                     <sense n="2">
+                        <def>～は何と言っているか </def>
+                     </sense>
+                     <cit type="example">
+                        <quote><emph>Apa kata</emph> PM dalam isu ini</quote>
+                        <cit type="translation">
+                           <quote>この件に関して総理が何と言っているか</quote>
+                        </cit>
+                     </cit>
                   </entry>
                   <entry>
                      <form>Apa khabar?</form>
@@ -1821,7 +1888,7 @@
                   </entry>
                   <entry>
                      <form>apa pun</form>
-                     <sense>
+                     <sense n="1">
                         <def>何でも、何にせよ </def>
                         <cit type="example">
                            <quote>walau <emph>apa pun</emph> yang terjadi</quote>
@@ -1843,6 +1910,15 @@
                            </cit>
                         </cit>
                      </sense>
+               <sense n="2">
+                  <def>とにかく</def>
+                  <cit type="example">
+                     <quote><emph>Apa pun</emph>, tsunami tetap tsunami.</quote>
+                     <cit type="translation">
+                        <quote>とにかく、津波は津波なのです。</quote>
+                     </cit>
+                  </cit>
+               </sense>
                   </entry>
                   <entry>
                      <form>apa saja [sahaja/juga/juga]</form>
@@ -5387,7 +5463,7 @@
          </entry>
 
          <entry type="root">
-            <!-- 語根 cerita-->
+            <!-- 語根 cerita -->
             <form>
                <orth>cerita</orth>
                <pron>cerita</pron>
@@ -5462,6 +5538,21 @@
                      </cit>
                   </cit>
                </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 cerite -->
+            <form>
+               <orth>cerite</orth>
+               <pron>cerite</pron>
+            </form>
+            <!-- 語形 cerite -->
+            <entry xml:id="ec-13747" resp="Nomoto">
+               <form>cerite</form>
+            <xr type="cf">
+               <ref target="#cc-16389">cerita</ref>
+            </xr>
             </entry>
          </entry>
 
@@ -9215,8 +9306,77 @@
                <pron>jangan</pron>
             </form>
             <!-- 語形 jangan -->
-            <entry xml:id="cc-32845" resp="担当者">
+            <entry xml:id="cc-32845" resp="Iijima">
                <form>jangan</form>
+               <!-- 副詞-->
+               <gramGrp>
+                  <pos>副</pos>
+               </gramGrp>
+               <sense n="1">
+		       <sense n="a">
+                     <def>〜するな</def>
+                     <cit type="example">
+                        <quote><emph>Jangan</emph> lupa tentang kerja rumah.</quote>
+                        <cit type="translation">
+                           <quote>宿題について忘れないでください。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Tolong <emph>jangan</emph> matikan suis.</quote>
+                        <cit type="translation">
+                           <quote>どうかスイッチを切らないでください。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote><emph>Jangan</emph> la. Aku dah stop dah bende-bende ni.</quote>
+                        <cit type="translation">
+                           <quote>やめてよ。あたし、もうやめたんだから、こういうのは。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Kau <emph>jangan</emph> letak telefon eh!</quote>
+                        <cit type="translation">
+                           <quote>お前、電話切るなよ！</quote>
+                        </cit>
+                     </cit>
+                  </sense>
+		       <sense n="b">
+                     <def>〜しない</def>
+                     <cit type="example">
+                        <quote>Saya sering mengingatkan anak supaya <emph>jangan</emph> ambil peduli apa orang kata.</quote>
+                        <cit type="translation">
+                           <quote>私はいつも子供に人が何を言うかなど気にしないようにと言い聞かせています。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>"Aku harap kau <emph>jangan</emph> ganggu aku lagi," ucap Marsha dengan jelas.</quote>
+                        <cit type="translation">
+                           <quote>「もうあたしの邪魔をしないで欲しいの」とマーシャははっきりと言った。</quote>
+                        </cit>
+                     </cit>
+                  </sense>
+	       </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>jangan tak [tidak]</form>
+                     <sense>
+                        <def>必ず〜すること</def>
+                        <cit type="example">
+                           <quote><emph>Jangan tak</emph> kasi tau.</quote>
+                           <cit type="translation">
+                              <quote>必ず知らせてね。</quote>
+                           </cit>
+                        </cit>
+                        <cit type="example">
+                           <quote>Jawab. <emph>Jangan tidak</emph> jawab.</quote>
+                           <cit type="translation">
+                              <quote>答えなさい。必ず答えなさい。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+               </re>
             </entry>
          </entry>
 
@@ -9991,6 +10151,50 @@
                         bersama.</quote>
                      <cit type="translation">
                         <quote>昨日友達と川へ行って遊びました。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 kamu -->
+            <form>
+               <orth>kamu</orth>
+               <pron>kamu</pron>
+            </form>
+            <!-- 語形 kamu-->
+            <entry xml:id="cc-35677" resp="Iijima">
+               <form>kamu</form>
+               <!-- 代名詞 -->
+               <gramGrp>
+                  <pos>代</pos>
+               </gramGrp>
+               <sense>
+                  <usg type="gram">対等または目下の人物に対して</usg>
+                  <def>君（達）</def>
+                  <cit type="example">
+			  <quote><emph>kamu</emph> semua</quote>
+                     <cit type="translation">
+                        <quote>君達</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Jadi, apa yang <emph>kamu</emph> dapat kali ini?</quote>
+                     <cit type="translation">
+                        <quote>で、今回、君は何を手に入れたの？</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Aku bangga kerana aku dapat memberikan tawa kepada <emph>kamu</emph> semua.</quote>
+                     <cit type="translation">
+                        <quote>君達みんなに笑いを届けることができて、私は誇らしく思う。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Bukan main lagi <emph>kamu</emph> ni yek!</quote>
+                     <cit type="translation">
+                        <quote>君ってば無茶苦茶すごいね！</quote>
                      </cit>
                   </cit>
                </sense>
@@ -13921,7 +14125,7 @@
             <!-- 語根  Malaysia -->
             <form>
                <orth>Malaysia</orth>
-               <pron>Malaysia</pron>
+               <pron>melésie</pron>
             </form>
             <!-- 語形 Malaysia -->
             <entry xml:id="cc-1787" resp="Nomoto">
@@ -17607,6 +17811,17 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 pn -->
+            <form>
+               <orth>pn</orth>
+               <pron>pun</pron>
+            </form>
+            <xr type="cf">
+               <ref target="#cc-61923">pun</ref>
+            </xr>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 pun-->
             <form>
                <orth>pun</orth>
@@ -18105,24 +18320,151 @@
          </entry>
 
          <entry type="root">
-            <!-- 語根 raja-->
+            <!-- 語根 raja -->
             <form>
                <orth>raja</orth>
                <pron>raja</pron>
             </form>
-            <!-- 語形 kerajaan-->
-            <entry xml:id="cc-62715" resp="担当者">
+            <!-- 語形 kerajaan -->
+            <entry xml:id="cc-62715" resp="Iijima">
                <form>kerajaan</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>政府、政権</def>
+                  <cit type="example">
+                     <quote>bon <emph>kerajaan</emph></quote>
+                     <cit type="translation">
+                        <quote>国債</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>kakitangan <emph>kerajaan</emph></quote>
+                     <cit type="translation">
+                        <quote>公務員、政府の職員</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>kerajaan</emph> negeri</quote>
+                     <cit type="translation">
+                        <quote>州政府</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>kerajaan</emph> persekutuan</quote>
+                     <cit type="translation">
+                        <quote>連邦政府</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Majlis Mesyuarat <emph>Kerajaan</emph> Negeri</quote>
+                     <cit type="translation">
+                        <quote>州政府評議会</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>milik <emph>kerajaan</emph></quote>
+                     <cit type="translation">
+                        <quote>国有（の）</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>parti <emph>kerajaan</emph></quote>
+                     <cit type="translation">
+                        <quote>与党</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>pegawai <emph>kerajaan</emph></quote>
+                     <cit type="translation">
+                        <quote>官僚、政府役人</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>pejabat <emph>kerajaan</emph></quote>
+                     <cit type="translation">
+                        <quote>官庁、役所</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>pertubuhan bukan <emph>kerajaan</emph></quote>
+                     <cit type="translation">
+                        <quote>非政府組織、NGO</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>sektor bukan <emph>kerajaan</emph></quote>
+                     <cit type="translation">
+                        <quote>民間、非政府部門</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Subsidi minyak yang ditanggung oleh <emph>kerajaan</emph> juga naik.</quote>
+                     <cit type="translation">
+                        <quote>政府が負担する石油補助金も増加した。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Dato Seri Anwar Ibrahim telah dipecat dari <emph>kerajaan</emph> BN.</quote>
+                     <cit type="translation">
+                        <quote>ダト・スリ・アンワル・イブラヒムはBN（国民戦線）政権から解雇された。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Pihak <emph>kerajaan</emph> boleh menghadkan jumlah pelajar ke luar negara.</quote>
+                     <cit type="translation">
+                        <quote>政府当局は海外派遣学生の数を制限することができる。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Pegawai <emph>kerajaan</emph> di Myanmar telah berkata 22,464 orang telah disahkan mati dari Taufan Nargis.</quote>
+                     <cit type="translation">
+                        <quote>ミャンマーの政府官僚が、サイクロン・ナルギスによって2万2464人が死んでいたことが確認されたと言った。</quote>
+                     </cit>
+                  </cit>
+	  </sense>
+               <sense n="2">
+                  <def>公立</def>
+                  <cit type="example">
+                     <quote>Pendidikan Islam mulai mendapat tempat di sekolah-sekolah <emph>kerajaan</emph> di Sarawak.</quote>
+                     <cit type="translation">
+                        <quote>サラワク州の公立学校でイスラーム教育が定着し始めた。</quote>
+                     </cit>
+                  </cit>
+	  </sense>
+               <sense n="3">
+                  <def>王国</def>
+                  <cit type="example">
+                     <quote><emph>Kerajaan</emph> Brunei</quote>
+                     <cit type="translation">
+                        <quote>ブルネイ王国</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>Kerajaan</emph> Johor</quote>
+                     <cit type="translation">
+                        <quote>ジョホール王国</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>Kerajaan</emph> Patani</quote>
+                     <cit type="translation">
+                        <quote>パタニ王国</quote>
+                     </cit>
+                  </cit>
+	  </sense>
             </entry>
          </entry>
 
          <entry type="root">
-            <!-- 語根 rumah-->
+            <!-- 語根 rumah -->
             <form>
                <orth>rumah</orth>
                <pron>rumah</pron>
             </form>
-            <!-- 語形 rumah-->
+            <!-- 語形 rumah -->
             <entry xml:id="cc-66091" resp="Tamura">
                <form>rumah</form>
                <!-- 名詞 -->
