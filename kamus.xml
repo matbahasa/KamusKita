@@ -193,7 +193,7 @@
             <xr type="cf">
                <ref target="#ID">参照先の見出し</ref>
             </xr>
-            <xr type="abbr">
+            <xr type="abbrev">
                <ref target="#ID">完全形</ref><lbl>の短縮形</lbl>
             </xr>
             <xr type="var">
@@ -1254,6 +1254,25 @@
                         <quote>あちゃー、俺、何しでかしたんだ？</quote>
                      </cit>
                   </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 alah -->
+            <form>
+               <orth>alah</orth>
+               <pron>alah</pron>
+            </form>
+            <!-- 語形 alah -->
+            <entry xml:id="cc-5409" resp="担当者">
+               <form>alah</form>
+               <!-- 間投詞 -->
+               <gramGrp>
+                  <pos>間</pos>
+               </gramGrp>
+               <sense>
+                  <def>も～う、まったく～（軽い失望の気持ちを表す）</def>
                </sense>
             </entry>
          </entry>
@@ -12302,7 +12321,7 @@
                <pron>la</pron>
             </form>
                <xr type="formal">
-                  <ref target="#cc-43981">lah</ref><lbl>の口語形</lbl>
+                  <ref target="#cc-43981_1">lah</ref><lbl>の口語形</lbl>
                </xr>
             <!-- 語形 la-->
             <entry xml:id="cc-43794" resp="Nomoto">
@@ -12313,6 +12332,8 @@
                   <pos>小</pos>
                </gramGrp>
                <sense n="1">
+		       <sense n="a">
+                     <usg type="gram">文全体に付き</usg>
                   <def>〜ですよ（ね）（実際には聞き手の想定通りでないことを表す）</def>
                   <cit type="example">
                      <quote>Ye <emph>la</emph>, rumah aku dalam hutan.</quote>
@@ -12345,8 +12366,20 @@
                      </cit>
                   </cit>
                </sense>
+       </sense>
+       <sense n="b">
+                     <usg type="gram">命令文、依頼・勧誘文の最初の語に付き</usg>
+                     <def>～しなさいよ（強制の意味を弱める）</def>
+                  <cit type="example">
+                     <quote>Kerja <emph>la</emph> lebih kalau nak hidup senang.</quote>
+                     <cit type="translation">
+                        <quote>楽な暮らしがしたいなら、もっと働きなさいよ。</quote>
+                     </cit>
+                  </cit>
+	     </sense>
                <sense n="2">
-                  <def>～こそ、他でもない～（焦点の標識）</def>
+                     <usg type="gram">焦点となり、しばしば前置された述語に付き</usg>
+                  <def>～こそ、他でもない～、他でもなく（焦点の標識）</def>
                   <cit type="example">
                      <quote>Rupanya hal ini <emph>la</emph> yang dia nak katakan kat aku.</quote>
                      <cit type="translation">
@@ -12606,17 +12639,234 @@
             </entry>
          </entry>
 
-         <entry type="root">
-            <!-- 語根 lah-->
+            <!-- lah_1, lah_2 -->
+	 <entry>
+            <!-- 語根 lah_1 -->
+            <entry n="1" type="root" subtype="hom">
             <form>
                <orth>lah</orth>
                <pron>lah</pron>
             </form>
-            <!-- 語形 lah-->
-            <entry xml:id="cc-43981" resp="担当者">
+            <!-- 語形 lah_1 -->
+            <entry xml:id="cc-43981_1" resp="Nomoto">
                <form>lah</form>
+               <!-- 小辞 -->
+               <gramGrp>
+                  <pos>小</pos>
+               </gramGrp>
+               <sense n="1">
+                  <usg type="gram">焦点となり、しばしば前置された述語に付き</usg>
+                  <def>～こそ、他でもない～、他でもなく（焦点の標識）</def>
+                     <cit type="example">
+                        <quote>Tak tau<emph>lah</emph> aku.</quote>
+                        <cit type="translation">
+                           <quote>知らないよ、あたし。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Bagus<emph>lah</emph> tu, sebagai jaminan masa depan.</quote>
+                        <cit type="translation">
+                           <quote>それはいいね、将来の保証として。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Saya dah tak tahan lagi dah diganggu. Sebab tu<emph>lah</emph> saya datang sini.</quote>
+                        <cit type="translation">
+                           <quote>干渉されるのはもうこりごりだ。だから、ここに来た。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Mereka<emph>lah</emph> yang mengalami kerugian yang paling banyak.</quote>
+                        <cit type="translation">
+                           <quote>一番たくさん損害を被ったのは彼らだ。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Dia juga<emph>lah</emph> yang berjaya menangkap harimau hadiah Sultan Terengganu yang terlepas daripada kandangnya.</quote>
+                        <cit type="translation">
+                           <quote>檻から脱走したトレンガヌのスルタンの贈り物のの虎を捕まえることに成功したのもまた彼だった。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Ini<emph>lah</emph> nama yang digunakan dalam dokumen-dokumen rasmi seperti pasport dan borang imigresen.</quote>
+                        <cit type="translation">
+                           <quote>これがパスポートや入国書類などの公的書類で使われる名前です。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Di atas kesedaran ini<emph>lah</emph> orang-orang Melayu telah bangun bersama-sama untuk menentang cadangan pihak British.</quote>
+                        <cit type="translation">
+                           <quote>マレー人達がイギリス当局の提案に反対して共に立ち上がったのは、こうした認識ゆえにだった。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Dengan itu lahir<emph>lah</emph> Kota Makkah.</quote>
+                        <cit type="translation">
+                           <quote>それによりメッカの町が誕生した。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Akibat daripada peristiwa tadi maka selamat<emph>lah</emph> Siti Hajar dan anaknya.</quote>
+                        <cit type="translation">
+                           <quote>先ほどの出来事の結果、シティ・ハジャーと彼女の子供は助かった。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Tetapi, Lautan Pasifik tidak<emph>lah</emph> selalu tenang.</quote>
+                        <cit type="translation">
+                           <quote>しかし、太平洋は常に穏やかとは限らない。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Ketika itu, bapa Lat sudah jatuh sakit tenat dan tidak dapat bekerja, maka terpaksa<emph>lah</emph> Lat menjadi pencari nafkah keluarga.</quote>
+                        <cit type="translation">
+                           <quote>当時、ラットの父は重病にかかり働くことができなかったため、ラットは一家の大黒柱にならざるを得なかった。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Pada tahun 1972 baru<emph>lah</emph> sekolah ini mendapat bangunan sendiri seperti yang ada sekarang.</quote>
+                        <cit type="translation">
+                           <quote>1972年になってようやくこの学校は現在あるような独自の建物を手に入れた。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Ia hanya<emph>lah</emph> satu lencana politik bukannya pingat tentera.</quote>
+                        <cit type="translation">
+                           <quote>それは政治的な記章でしかなく、軍事勲章ではなかった。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Pada awal abad ke-20, kebanyakan bentuk perjudian diharamkan di kebanyakan negara, termasuk<emph>lah</emph> Amerika Syarikat serta kebanyakan negara Eropah.</quote>
+                        <cit type="translation">
+                           <quote>20世紀始めには、ほとんどの形態の賭博がアメリカ合衆国と大半のヨーロッパ諸国を含むほとんどの国で禁止された。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Mujur<emph>lah</emph> Bennett Gordon, pelajar kaya di sekolah tersebut, sudi membantunya.</quote>
+                        <cit type="translation">
+                           <quote>幸いにもその学校の裕福な生徒、ベネット・ゴードンが彼を進んで助けた。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Kalau<emph>lah</emph> aku tahu begini jadinya tidak akan aku bertindak bodoh untuk berpisah dengan orang yang ikhlas mencintai aku.</quote>
+                        <cit type="translation">
+                           <quote>仮にもこんなことになると分かっていたら、あたしは自分を一途に愛してくれる人と分かれるなんて愚かな行動には出なかったでしょう。</quote>
+                        </cit>
+                     </cit>
+               </sense>
+               <sense n="2">
+                  <sense n="a">
+                     <usg type="gram">文全体に付き</usg>
+                     <def>〜ですよ（ね）（実際の内容や行動が聞き手の想定通りでないことを表す）</def>
+                     <cit type="example">
+                        <quote>Tapi caranya salah<emph>lah</emph>.</quote>
+                        <cit type="translation">
+                           <quote>でも、やり方は間違ってますよ。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Tapi, tak apa<emph>lah</emph>.</quote>
+                        <cit type="translation">
+                           <quote>でも、構いませんよ。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Alamak, aku segan<emph>lah</emph>.</quote>
+                        <cit type="translation">
+                           <quote>えっ、恥ずかしいですよ。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Saya masuk dulu<emph>lah</emph> ye!</quote>
+                        <cit type="translation">
+                           <quote>先に入りますね。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Ini melalui pengalaman saya<emph>lah</emph>.</quote>
+                        <cit type="translation">
+                           <quote>これは私の経験に基づいてですよ。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Lucu pun ada gak, tapi I diam je<emph>lah</emph>.</quote>
+                        <cit type="translation">
+                           <quote>まあ面白くもあったんだけど、ミーは黙ってたよ。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Ye<emph>lah</emph>, memang salah aku juga sebab terlalu inginkan sesuatu itu dibuat dengan perfect.</quote>
+                        <cit type="translation">
+                           <quote>そうだよ、物事がパーフェクトに成されることを望みすぎたんだから、確かにあたしが悪いことになるよ。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>OK <emph>lah</emph>, kalau macam tu kita jumpa kat tempat semalam dalam sejam lagi!</quote>
+                        <cit type="translation">
+                           <quote>オッケー、それじゃあ、1時間後に昨日の場所で会いましょう！</quote>
+                        </cit>
+                     </cit>
+                  </sense>
+                  <sense n="b">
+                     <usg type="gram">命令文、依頼・勧誘文の最初の語に付き</usg>
+                     <def>～しなさいよ（強制の意味を弱める）</def>
+                     <cit type="example">
+                        <quote>Makan<emph>lah</emph> bubur ini!</quote>
+                        <cit type="translation">
+                           <quote>このお粥を食べてよ！</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Jangan<emph>lah</emph> hanya berdiam diri.</quote>
+                        <cit type="translation">
+                           <quote>黙っていてばかりではいけませんよ。</quote>
+                        </cit>
+                     </cit>
+                     <cit type="example">
+                        <quote>Kali ni tolong<emph>lah</emph> jangan menangis.</quote>
+                        <cit type="translation">
+                           <quote>今回はどうか泣かないでよね。</quote>
+                        </cit>
+                     </cit>
+                  </sense>
+               </sense>
+       </entry>
+       </entry>
+            <!-- 語根 lah_2 -->
+            <entry n="2" type="root" subtype="hom">
+            <form>
+               <orth>lah</orth>
+               <pron>lah</pron>
+            </form>
+               <xr type="abbrev">
+                  <ref target="#cc-5409">alah</ref><lbl>の短縮形</lbl>
+               </xr>
+            <!-- 語形 lah_2 -->
+            <entry xml:id="cc-43981_2" resp="Nomoto">
+               <form>lah</form>
+               <usg type="register">口語</usg>
+               <!-- 間投詞 -->
+               <gramGrp>
+                  <pos>間</pos>
+               </gramGrp>
+               <sense>
+                  <def>も～う、まったく～（軽い失望の気持ちを表す）</def>
+                  <cit type="example">
+                     <quote><emph>Lah</emph>, tak payah cakap banyak.</quote>
+                     <cit type="translation">
+                        <quote>も～う、たくさん話さなくていいから。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>Lah</emph>, tak percaya pulak.</quote>
+                     <cit type="translation">
+                        <quote>まったく～、信じてないのね。</quote>
+                     </cit>
+                  </cit>
+               </sense>
             </entry>
          </entry>
+ </entry>
 
          <entry type="root">
             <!-- 語根 lain-->
@@ -17060,7 +17310,7 @@
                <orth>pastu</orth>
                <pron>pastu</pron>
             </form>
-            <xr type="abbr">
+            <xr type="abbrev">
 		    <ref target="#cc-46434">lepas</ref> tu<lbl>の短縮形</lbl>
             </xr>
             <!-- 語形 pastu-->
@@ -18703,7 +18953,7 @@
                <orth>saja</orth>
                <pron>saja</pron>
             </form>
-               <xr type="abbr">
+               <xr type="abbrev">
                   <ref target="#cc-66652">sahaja</ref><lbl>の短縮形</lbl>
                </xr>
             <!-- 語形 saja -->
@@ -21105,7 +21355,7 @@
                <orth>takde</orth>
                <pron>takde</pron>
             </form>
-               <xr type="formal">
+               <xr type="abbrev">
                   <ref target="">tak ada</ref><lbl>の短縮形</lbl>
                </xr>
             <!-- 語形 takde-->
