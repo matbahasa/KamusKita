@@ -194,7 +194,7 @@
       </span>
     </xsl:for-each>
     <!-- 他の内容 apply-templates -->
-        <xsl:apply-templates select="tei:entry"/>
+        <xsl:apply-templates select="tei:xr | tei:entry"/>
   </span>
 </xsl:template>
 
