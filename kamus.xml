@@ -12738,7 +12738,7 @@
                      <cit type="example">
                         <quote>Pada awal abad ke-20, kebanyakan bentuk perjudian diharamkan di kebanyakan negara, termasuk<emph>lah</emph> Amerika Syarikat serta kebanyakan negara Eropah.</quote>
                         <cit type="translation">
-                           <quote>20世紀始めには、ほとんどの形態の賭博がアメリカ合衆国と大半のヨーロッパ諸国を含むほとんどの国で禁止された。</quote>
+                           <quote>20世紀初めには、ほとんどの形態の賭博がアメリカ合衆国と大半のヨーロッパ諸国を含むほとんどの国で禁止された。</quote>
                         </cit>
                      </cit>
                      <cit type="example">
@@ -21428,6 +21428,91 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 tanpa -->
+            <form>
+               <orth>tanpa</orth>
+               <pron>tampa</pron>
+            </form>
+            <!-- 語形 tanpa -->
+            <entry xml:id="cc-76537" resp="Nomoto">
+               <form>tanpa</form>
+               <!-- 前置詞 -->
+               <gramGrp>
+                  <pos>前</pos>
+               </gramGrp>
+               <sense>
+                  <def>〜なしの、〜なしに</def>
+                  <cit type="example">
+                     <quote><emph>tanpa</emph> nama</quote>
+                     <cit type="translation">
+                        <quote>匿名の</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>pendatang asing <emph>tanpa</emph> izin</quote>
+                     <cit type="translation">
+                        <quote>不法外国人</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>filem hitam putih <emph>tanpa</emph> warna</quote>
+                     <cit type="translation">
+                        <quote>色のないモノクロ映画</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>tanpa</emph> melengahkan masa</quote>
+                     <cit type="translation">
+                        <quote>早速ですが、時間を無駄に引き延ばすことはせず</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>tanpa</emph> mengira [kira]</quote>
+                     <cit type="translation">
+                        <quote>～にかかわらず</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Bersikap adil untuk semua <emph>tanpa</emph> mengira bangsa, agama dan fahaman politik.</quote>
+                     <cit type="translation">
+                        <quote>民族、宗教、政治的信条にかかわらず、すべての人に対して公平でいなさい。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Mayat beliau ditemui <emph>tanpa</emph> sebarang kecederaan pada 26 Ogos.</quote>
+                     <cit type="translation">
+                        <quote>その方の遺体は8月26日に何の傷もない状態で見つかった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>DVD haram ni DVD yang dikeluarkan <emph>tanpa</emph> kebenaran daripada pihak berkuasa atau pihak penerbitan.</quote>
+                     <cit type="translation">
+                        <quote>違法DVDというのは当局あるいはメーカーからの許可なしに出されたDVDです。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Kalau ditonton <emph>tanpa</emph> ada prejudis, cerita ini bagus.</quote>
+                     <cit type="translation">
+                        <quote>偏見を持たずに見たなら、このドラマは素晴らしい。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Rezeki Allah itu berada di mana-mana <emph>tanpa</emph> diduga.</quote>
+                     <cit type="translation">
+                        <quote>アッラーから与えられる福というのは思いもよらず、どこにでもあるものです。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Mahukah anda mendapatkan keuntungan segera <emph>tanpa</emph> perlu menunggu cukup bulan?</quote>
+                     <cit type="translation">
+                        <quote>一カ月になるのを待つ必要なく、すぐに利益を得たいですか？</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 tapi-->
             <form>
                <orth>tapi</orth>
@@ -21602,6 +21687,12 @@
                      <quote><emph>tempat</emph> asal</quote>
                      <cit type="translation">
                         <quote>原産地、出身地</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote><emph>tempat</emph> bersandar [sandar/menyandar]</quote>
+                     <cit type="translation">
+                        <quote>背もたれ</quote>
                      </cit>
                   </cit>
                   <cit type="example">
@@ -21940,6 +22031,103 @@
                </sense>
                <sense n="2">
                   <def>対戦する</def>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 tentera -->
+            <form>
+               <orth>tentera</orth>
+               <pron>tentera</pron>
+            </form>
+            <!-- 語形 tanpa -->
+            <entry xml:id="cc-78395" resp="Uchida">
+               <form>tentera</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <def>軍</def>
+                  <cit type="example">
+                     <quote>anggota <emph>tentera</emph></quote>
+                     <cit type="translation">
+                        <quote>兵士、軍人</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>kapal <emph>tentera</emph></quote>
+                     <cit type="translation">
+                        <quote>軍艦</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>kekuatan <emph>tentera</emph></quote>
+                     <cit type="translation">
+                        <quote>兵力</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>angkatan [pasukan] <emph>tentera</emph></quote>
+                     <cit type="translation">
+                        <quote>軍隊</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Angkatan <emph>Tentera</emph> Malaysia (ATM)</quote>
+                     <cit type="translation">
+                        <quote>マレーシア国軍</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>tentera</emph> darat</quote>
+                     <cit type="translation">
+                        <quote>陸軍</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>tentera</emph> laut</quote>
+                     <cit type="translation">
+                        <quote>海軍</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>tentera</emph> udara</quote>
+                     <cit type="translation">
+                        <quote>空軍</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Abdul Malik telah menubuhkan pasukan <emph>tentera</emph> khas sebagai <emph>tentera</emph> kerajaan.</quote>
+                     <cit type="translation">
+                        <quote>アブドゥル・マリクは政府軍として特別な軍隊を設立した。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Alexander menyerap orang-orang asing ke dalam angkatan <emph>tentera</emph> dan pentadbirannya.</quote>
+                     <cit type="translation">
+                        <quote>アレクサンダーは外国人を軍隊やその統治機構に組み入れた。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Angkatan bersenjata Singapura berjaya dibangunkan dengan bantuan 18 pegawai <emph>tentera</emph> Israel.</quote>
+                     <cit type="translation">
+                        <quote>シンガポール軍は18人のイスラエル軍将校の援助によって無事に創設された。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Amerika Syarikat adalah pengendali pangkalan <emph>tentera</emph> yang terbesar di luar negara.</quote>
+                     <cit type="translation">
+                        <quote>アメリカ合衆国は海外における最大の軍事基地の運用国である。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Pada tahun 1940 bangunan sekolah ini menjadi salah satu tempat kem <emph>tentera</emph> Jepun bagi pemerintahan Jepun di Perlis.</quote>
+                     <cit type="translation">
+                        <quote>1940年にはこの学校の校舎はプルリス州における日本による統治のための日本軍駐屯地の一つとなった。</quote>
+                     </cit>
+                  </cit>
                </sense>
             </entry>
          </entry>
