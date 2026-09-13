@@ -4478,7 +4478,7 @@
                   <pos>動</pos>
                </gramGrp>
                <sense n="1">
-                  <def>する、やる </def>
+                  <def>する、やる</def>
                   <cit type="example">
                      <quote><emph>buat</emph> bayaran</quote>
                      <cit type="translation">
@@ -4525,6 +4525,36 @@
                      <quote><emph>buat</emph> ketetapan</quote>
                      <cit type="translation">
                         <quote>決議する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>buat</emph> laporan polis</quote>
+                     <cit type="translation">
+                        <quote>警察に訴える、通報する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>buat</emph> panggilan</quote>
+                     <cit type="translation">
+                        <quote>電話をかける</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>buat</emph> pesanan</quote>
+                     <cit type="translation">
+                        <quote>注文する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>buat</emph> resolusi</quote>
+                     <cit type="translation">
+                        <quote>議決する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>buat</emph> salah</quote>
+                     <cit type="translation">
+                        <quote>間違いを犯す、悪い</quote>
                      </cit>
                   </cit>
                   <cit type="example">
@@ -4680,7 +4710,230 @@
                   </entry>
                </re>
             </entry>
-         </entry>
+            <!-- 語形 buat-buat -->
+            <entry xml:id="ec-12908" resp="Nomoto">
+               <form>buat-buat</form>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>ふりをする</def>
+                  <cit type="example">
+                     <quote>Tahu tapi <emph>buat-buat</emph> tak tahu eh!</quote>
+                     <cit type="translation">
+                        <quote>知ってるくせに知らないふりなんかして！</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Engkau jangan <emph>buat-buat</emph> lupa.</quote>
+                     <cit type="translation">
+                        <quote>あんた、忘れたふりしないでよ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>でっち上げる、作り上げる</def>
+                  <cit type="example">
+                     <quote>Sebab malas nak masuk, aku pun <emph>buat-buat</emph> alasan sakit perut.</quote>
+                     <cit type="translation">
+                        <quote>参加するのが億劫だったから、あたしはお腹が痛いって言い訳をでっち上げた。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Tapi dia <emph>buat-buat</emph> muka selamba je.</quote>
+                     <cit type="translation">
+                        <quote>でも、彼（女）は平然を装っていただけだった。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+  </entry>
+            <!-- 語形 membuat -->
+            <entry xml:id="cc-13774" resp="Takahashi">
+               <form>membuat</form>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>する、行う</def>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> bayaran</quote>
+                     <cit type="translation">
+                        <quote>支払いをする</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> bising</quote>
+                     <cit type="translation">
+                        <quote>騒ぐ</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> kenyataan</quote>
+                     <cit type="translation">
+                        <quote>発言する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> keputusan</quote>
+                     <cit type="translation">
+                        <quote>決定する、結論する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> kerja luar</quote>
+                     <cit type="translation">
+                        <quote>出張する、よそで働く、屋外で作業する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> kesimpulan</quote>
+                     <cit type="translation">
+                        <quote>結論する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> ketetapan</quote>
+                     <cit type="translation">
+                        <quote>決議する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> laporan polis</quote>
+                     <cit type="translation">
+                        <quote>警察に訴える、通報する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> panggilan</quote>
+                     <cit type="translation">
+                        <quote>電話をかける</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> pesanan</quote>
+                     <cit type="translation">
+                        <quote>注文する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> resolusi</quote>
+                     <cit type="translation">
+                        <quote>議決する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> salah</quote>
+                     <cit type="translation">
+                        <quote>間違いを犯す、悪い</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> tawaran</quote>
+                     <cit type="translation">
+                        <quote>入札する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>membuat</emph> tempahan</quote>
+                     <cit type="translation">
+                        <quote>予約する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya akan <emph>membuat</emph> kerja itu sendiri.</quote>
+                     <cit type="translation">
+                        <quote>その仕事は自分でします。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya pergi ke bank dan <emph>membuat</emph> pemindahan wang.</quote>
+                     <cit type="translation">
+                        <quote>銀行へ行って、お金の振り込みをします。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Kami akan <emph>membuat</emph> majlis pada hari jadi Encik Yamada.</quote>
+                     <cit type="translation">
+                        <quote>私達は山田さんの誕生日にパーティーを行います。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>作る</def>
+                  <cit type="example">
+                     <quote>Syarikat itu <emph>membuat</emph> kereta.</quote>
+                     <cit type="translation">
+                        <quote>あの会社は車を作っています。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Adik perempuan saya <emph>membuat</emph> bekal untuk ayah.</quote>
+                     <cit type="translation">
+                        <quote>妹は父にお弁当を作ってあげました。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="3">
+                  <usg type="gram">使役</usg>
+                  <def>～させる、～にする</def>
+                  <cit type="example">
+                     <quote>Aku akan mencari apa yang akan <emph>membuat</emph> aku kuat.</quote>
+                     <cit type="translation">
+                        <quote>僕は自分を強くしてくれるものを探します。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Inilah yang <emph>membuat</emph> Nabi s.a.w. menangis.</quote>
+                     <cit type="translation">
+                        <quote>預言者ムハンマドを泣かせのはこのことでした。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="4">
+                  <def>ふりをする</def>
+                  <cit type="example">
+                     <quote>Tapi aku rasa terpaksa, dan terpaksalah <emph>membuat</emph> tidak peduli.</quote>
+                     <cit type="translation">
+                        <quote>でも、僕は強いられているように感じ、気にしていないふりをせざるを得なかったのです。</quote>
+                     </cit>
+                  </cit>
+  </sense>
+  </entry>
+            <!-- 語形 membuat-buat -->
+            <entry xml:id="cc-13775" resp="Takahashi">
+               <form>membuat-buat</form>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>でっち上げる</def>
+                  <cit type="example">
+                     <quote>Dia hanya <emph>membuat-buat</emph> sakit supaya tidak perlu pergi ke sekolah.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）は学校に行かなくて済むように、病気のふりをしているだけだ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya sedih tengok ada pihak <emph>membuat-buat</emph> tanggapan bahawa Mohamed Azmin adalah pelakunya.</quote>
+                     <cit type="translation">
+                        <quote>私はモハメッド・アズミンがそれを行ったという印象をでっち上げている人がいるのを見て悲しく思う。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>ふりをする</def>
+                  <cit type="example">
+                     <quote>Dia hanya <emph>membuat-buat</emph> sakit supaya tidak perlu pergi ke sekolah.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）は学校に行かなくて済むように、病気のふりをしているだけだ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+  </entry>
+  </entry>
 
          <entry type="root">
             <!-- 語根 budak-->
@@ -8068,7 +8321,7 @@
                   </entry>
                   <entry>
                      <form>mengambil hati</form>
-                     <sense>
+                     <sense n="1">
                         <def>機嫌を取る</def>
                         <cit type="example">
                            <quote>Macam-macam cara sudah dilakukannya untuk <emph>mengambil
@@ -8077,6 +8330,9 @@
                               <quote>ジュリアのご機嫌を取るために色々な方法が行われた。</quote>
                            </cit>
                         </cit>
+                     </sense>
+                     <sense n="2">
+                        <def>気にする、気を悪くする</def>
                      </sense>
                   </entry>
                   <entry>
@@ -11211,7 +11467,7 @@
                   <pos>動</pos>
                </gramGrp>
                <sense n="1">
-                  <def> 〜される</def>
+                  <def>〜される</def>
                   <cit type="example">
                      <quote>Sepupu aku <emph>kena</emph> tipu.</quote>
                      <cit type="translation">
@@ -11356,6 +11612,67 @@
                      </sense>
                   </entry>
                </re>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 kenapa -->
+            <form>
+               <orth>kenapa</orth>
+               <pron>kenapa</pron>
+            </form>
+            <!-- 語形 kenapa -->
+            <entry xml:id="cc-38402" resp="Ogawara">
+               <form>kenapa</form>
+               <!-- 副詞 -->
+               <gramGrp>
+                  <pos>副</pos>
+               </gramGrp>
+               <sense>
+                  <def>どうして、何で</def>
+                  <cit type="example">
+                     <quote><emph>Kenapa</emph> kau suka benda Jepun?</quote>
+                     <cit type="translation">
+                        <quote>どうしてお前は日本の物が好きなの？</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>Kenapa</emph> tak jawab call abang?</quote>
+                     <cit type="translation">
+                        <quote>何で兄さんの電話に出ないんだ？</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Orang tulis secara general, tapi <emph>kenapa</emph> ko ambik hati sangat?</quote>
+                     <cit type="translation">
+                        <quote>一般的に書いているだけなのに、何であんたそんなに気にするの？</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Aku tidak tahu <emph>kenapa</emph> tetapi sejak bulan lalu, sakit kepalaku semakin menjadi-jadi.</quote>
+                     <cit type="translation">
+                        <quote>何でか分からないけど、先月から頭痛がよりひどくなってきた。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Anak-anak aku pun hairan <emph>kenapa</emph> aku buat macam tu.</quote>
+                     <cit type="translation">
+                        <quote>うちの子供達も何で私がそんなふうにするのか不思議に思っている。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Entah <emph>kenapa</emph> saat ini jiwanya benar-benar tenang dan ceria.</quote>
+                     <cit type="translation">
+                        <quote>どうして分からないが、今、彼（女）の精神は本当に落ち着いていて朗らかだ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Itu antara sebab <emph>kenapa</emph> saya buat blog.</quote>
+                     <cit type="translation">
+                        <quote>そのことは私がどうしてブログをやるのかという理由の一つです。</quote>
+                     </cit>
+                  </cit>
+               </sense>
             </entry>
          </entry>
 
@@ -15531,6 +15848,112 @@
                      </cit>
                   </cit>
                </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 menteri -->
+            <form>
+               <orth>menteri</orth>
+               <pron>menteri</pron>
+            </form>
+            <!-- 語形 menteri -->
+            <entry xml:id="cc-50696" resp="Kashiwa">
+               <form>menteri</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <def>大臣</def>
+                  <cit type="example">
+                     <quote><emph>menteri</emph> kabinet</quote>
+                     <cit type="translation">
+                        <quote>閣僚</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>menteri</emph> kanan</quote>
+                     <cit type="translation">
+                        <quote>上級大臣、上級相</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>menteri</emph> kewangan</quote>
+                     <cit type="translation">
+                        <quote>財務大臣、蔵相</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>timbalan <emph>menteri</emph></quote>
+                     <cit type="translation">
+                        <quote>副大臣</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Beliau akhirnya dilantik sebagai <emph>menteri</emph> pada tahun 2016.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）は2016年についに大臣に任命された。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Kami banyak menjaga kebajikan para <emph>menteri</emph> dan timbalan <emph>menteri</emph>.</quote>
+                     <cit type="translation">
+                        <quote>我々は大臣・副大臣の福利厚生を大きく支えている。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>jemaah menteri</form>
+                     <sense>
+                        <def>閣僚、内閣</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ketua menteri</form>
+                     <sense>
+                        <def>（マレーシアの王がいない州の）州知事</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>menteri besar</form>
+                     <sense>
+                        <def>（スルタンがいる州の）州知事</def>
+                        <cit type="example">
+		                <quote>Abdullah Jaafar dan empat lagi adik-beradiknya pernah menjadi <emph>Menteri Besar</emph> Johor.</quote>
+                           <cit type="translation">
+                              <quote>アブドゥッラー・ジャアファルともう4人の兄弟は、ジョホール州知事を務めたことがある。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>menteri luar</form>
+                     <sense>
+                        <def>外務大臣、外相</def>
+                        <cit type="example">
+				<quote><emph>Menteri Luar</emph> Perancis Bernard Kouchner tidak mengenepikan cadangan boikot itu.</quote>
+                           <cit type="translation">
+                              <quote>フランスの外務大臣ベルナール・クシュネルは、そのボイコットの提案を排除しなかった。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>perdana menteri</form>
+                     <sense>
+                        <def>首相、総理大臣</def>
+                        <cit type="example">
+		                <quote>Kuasa eksekutif dilaksanakan oleh <emph>Perdana Menteri</emph> dan mana-mana menteri kabinet.</quote>
+                           <cit type="translation">
+                              <quote>行政権は、首相および各閣僚によって行使される。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+               </re>
             </entry>
          </entry>
 
@@ -21424,6 +21847,174 @@
                      </cit>
                   </cit>
                </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 tangan -->
+            <form>
+               <orth>tangan</orth>
+               <pron>tangan</pron>
+            </form>
+            <!-- 語形 tangan -->
+            <entry xml:id="cc-76317" resp="Nomoto">
+               <form>tangan</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>手</def>
+                  <cit type="example">
+                     <quote>bagasi <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手荷物</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>beg <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>ハンドバッグ</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>bom <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手榴弾</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>buatan <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手作りの</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>cucian <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手洗い</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>jam <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>腕時計</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>kerja <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手仕事</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>kraf [kerajinan] <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手工芸、手芸</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>pergelangan <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手首</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>sarung <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手袋</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>tangan</emph> palsu</quote>
+                     <cit type="translation">
+                        <quote>義手</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>tapak [telapak] <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手のひら</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>tulisan <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>手書き</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>(ber)jabat <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>握手する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>(ber)tepuk <emph>tangan</emph></quote>
+                     <cit type="translation">
+                        <quote>拍手する</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya mengangkat <emph>tangan</emph> saya ke atas.</quote>
+                     <cit type="translation">
+                        <quote>私は手を上に上げます。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya pegang penyepit makanan menggunakan <emph>tangan</emph> kiri.</quote>
+                     <cit type="translation">
+                        <quote>私は左手で箸を持ちます。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Dia mencium kepala, kedua <emph>tangan</emph> dan kaki ayahnya.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）は父親の頭と両手、足にキスをした。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Sedangkan sejarah Karbala ditulis oleh <emph>tangan</emph>-<emph>tangan</emph> mereka sendiri.</quote>
+                     <cit type="translation">
+                        <quote>一方、カルバラーの歴史は彼ら自身の手により書かれた。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+		       <sense n="a">
+			  <def>掌握、定め</def>
+			  <cit type="example">
+			     <quote>Jodoh di <emph>tangan</emph> Tuhan dan manusia wajib berikhtiar mencari dan memilihnya.</quote>
+			     <cit type="translation">
+				<quote>人生の伴侶は神の定める所で人間はそれを探し、選ぶことに努めなければならない。</quote>
+			     </cit>
+			  </cit>
+		  </sense>
+		       <sense n="b">
+			  <def>支配権、手中</def>
+			  <cit type="example">
+			     <quote>Akhirnya, keseluruhan empayar jatuh ke <emph>tangan</emph> bangsa Turki pada 1331.</quote>
+			     <cit type="translation">
+				<quote>最終的に1331年、帝国全体がトルコ人の手に落ちた。</quote>
+			     </cit>
+			  </cit>
+		  </sense>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>(ber)campur tangan</form>
+                     <sense>
+                        <def>介入する、干渉する</def>
+                        <cit type="example">
+                           <quote>Lelaki pun dah <emph>campur tangan</emph> dalam urusan rumah tangga.</quote>
+                           <cit type="translation">
+                              <quote>男性も家事に手を出すようになった。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+               </re>
             </entry>
          </entry>
 
