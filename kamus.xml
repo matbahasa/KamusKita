@@ -1335,49 +1335,432 @@
                </gramGrp>
                <sense n="1">
                   <def>取る</def>
+               </sense>
+               <sense n="2">
+                  <def>撮る</def>
+               </sense>
+               <sense n="3">
+                  <def>（時・金が）かかる</def>
+               </sense>
+               <sense n="4">
+                  <def>受験する</def>
+               </sense>
+               <sense n="5">
+                  <def>受け取る、解する</def>
                   <cit type="example">
-                     <quote><emph>ambil</emph></quote>
+                     <quote><emph>ambil</emph> maklum</quote>
                      <cit type="translation">
-                        <quote></quote>
+                        <quote>1.（意見などを）聞き届ける、承知する 2. 情報を得る</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ambil</emph> mudah</quote>
+                     <cit type="translation">
+                        <quote>軽く見る、軽んじる</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ambil</emph> remeh</quote>
+                     <cit type="translation">
+                        <quote>軽く見る、甘く見る</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ambil</emph> berat</quote>
+                     <cit type="translation">
+                        <quote>重く受け止める、真剣に考える</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>ambil alih</form>
+                     <sense>
+                        <def>取って代わる、引き継ぐ</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil bahagian</form>
+                     <sense>
+                        <def>参加する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil hati</form>
+                     <sense n="1">
+                        <def>機嫌を取る</def>
+                     </sense>
+                     <sense n="2">
+                        <def>気にする、気を悪くする</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil keputusan</form>
+                     <sense n="1">
+                        <def>決心する</def>
+                     </sense>
+                     <sense n="2">
+                        <def>採決する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil kesempatan</form>
+                     <sense>
+                        <def>機に乗じる、機会を利用する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil ketetapan</form>
+                     <sense>
+                        <def>決議する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil kira</form>
+                     <sense>
+                        <def>考慮する、配慮する</def>
+                        <cit type="example">
+                           <quote>Ada bebrapa faktor yang perlu di<emph>ambil kira</emph>.</quote>
+                           <cit type="translation">
+                              <quote>考慮に入れる必要のある要因がいくつかある。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil kisah</form>
+                     <sense>
+                        <def>気にする</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil langkah</form>
+                     <sense n="1">
+                        <def>対処する、措置する</def>
+                     </sense>
+                     <sense n="2">
+                        <def>踏み出す</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil peduli</form>
+                     <sense>
+                        <def>気にする</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil peluang</form>
+                     <sense>
+                        <def>機会を利用する、この機に～する、この場を借りて～する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil tahu</form>
+                     <sense>
+                        <def>気に留める、気に掛ける</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil tempat duduk</form>
+                     <sense>
+                        <def>着席する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil tindakan</form>
+                     <sense>
+                        <def>対処する、措置する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ambil wuduk</form>
+                     <sense>
+                        <def>ウドゥ、小浄（礼拝前に身体の一部を水で清める行為）を行う</def>
+                     </sense>
+                  </entry>
+               </re>
+            </entry>
+            <!-- 語形 mengambil -->
+            <entry xml:id="cc-6095" resp="Takahashi">
+               <form>mengambil</form>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>取る</def>
+                  <cit type="example">
+                     <quote><emph>mengambil</emph> keluar</quote>
+                     <cit type="translation">
+                        <quote>取り出す</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya <emph>mengambil</emph> kicap dan berikan kepada Encik Lee.</quote>
+                     <cit type="translation">
+                        <quote>私は醤油を取ってイさんに渡しました。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Anda boleh <emph>mengambil</emph> salinan data anda daripada pelbagai perkhidmatan kami dengan Google Ambient.</quote>
+                     <cit type="translation">
+                        <quote>Googleアンビエントを使うと、Googleの様々なサービスからデータのコピーを取ることができます。</quote>
                      </cit>
                   </cit>
                </sense>
                <sense n="2">
                   <def>撮る</def>
                   <cit type="example">
-                     <quote><emph>ambil</emph></quote>
+                     <quote>Saya tak sempat <emph>mengambil</emph> gambar.</quote>
                      <cit type="translation">
-                        <quote></quote>
+                        <quote>私は写真を撮る時間がありませんでした。</quote>
                      </cit>
                   </cit>
                </sense>
                <sense n="3">
                   <def>（時・金が）かかる</def>
                   <cit type="example">
-                     <quote><emph>ambil</emph></quote>
+                     <quote>Kalau hantar melalui laut <emph>mengambil</emph> masa tetapi murah.</quote>
                      <cit type="translation">
-                        <quote></quote>
+                        <quote>船便は時間がかかりますが、安いです。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Dari rumah ke sekolah <emph>mengambil</emph> masa satu jam dengan kereta api.</quote>
+                     <cit type="translation">
+                        <quote>家から学校まで電車で一時間かかります。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Kerja-kerja membaik pulih bangunan bersejarah itu dijangka <emph>mengambil</emph> belanja yang besar.</quote>
+                     <cit type="translation">
+                        <quote>その歴史的建造物の修復工事には大きな費用がかかると予想されます。</quote>
                      </cit>
                   </cit>
                </sense>
                <sense n="4">
                   <def>受験する</def>
                   <cit type="example">
-                     <quote><emph>ambil</emph></quote>
+                     <quote>Kesemua calon akan <emph>mengambil</emph> peperiksaan tersebut di 3,334 buah pusat peperiksaan di seluruh negara.</quote>
                      <cit type="translation">
-                        <quote></quote>
+                        <quote>すべての受験者が全国3,334か所の試験会場でその試験を受けます。</quote>
                      </cit>
                   </cit>
                </sense>
                <sense n="5">
                   <def>受け取る、解する</def>
                   <cit type="example">
-                     <quote><emph>ambil</emph></quote>
+                     <quote><emph>mengambil</emph> maklum</quote>
                      <cit type="translation">
-                        <quote></quote>
+                        <quote>1.（意見などを）聞き届ける、承知する 2. 情報を得る</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>mengambil</emph> mudah</quote>
+                     <cit type="translation">
+                        <quote>軽く見る、軽んじる</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>mengambil</emph> remeh</quote>
+                     <cit type="translation">
+                        <quote>軽く見る、甘く見る</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>mengambil</emph> berat</quote>
+                     <cit type="translation">
+                        <quote>重く受け止める、真剣に考える</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Beliau begitu <emph>mengambil</emph> berat tentang perkembangan kemajuan pelajar.</quote>
+                     <cit type="translation">
+                        <quote>氏は生徒の成長についてそれはそれは真剣に考えている。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Umar <emph>mengambil</emph> pendapat Abdul Rahman sebagai satu ijmak.</quote>
+                     <cit type="translation">
+                        <quote>ウマルはアブドゥル・ラーマンの意見を総意として受け取った。</quote>
                      </cit>
                   </cit>
                </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>mengambil alih</form>
+                     <sense>
+                        <def>取って代わる、引き継ぐ</def>
+			<cit type="example">
+			     <quote>Belialah yang akan <emph>mengambil alih</emph> tanggungjawab dan tugas generasi sekarang untuk memimpin bangsa dan membangun negara pada masa akan datang.</quote>
+			     <cit type="translation">
+				     <quote>将来、民族を導き、国を発展させるために今の世代の責任と義務を引き継ぐのは若者だ。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil bahagian</form>
+                     <sense>
+                        <def>参加する</def>
+			<cit type="example">
+			     <quote>Ahli gereja dilarang <emph>mengambil bahagian</emph> dalam politik yang bertentangan dengan UNIP.</quote>
+			     <cit type="translation">
+				     <quote>教会員はUNIPに反する政治活動に参加することを禁じられています。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil hati</form>
+                     <sense n="1">
+                        <def>機嫌を取る</def>
+                     </sense>
+                     <sense n="2">
+                        <def>気にする、気を悪くする</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil keputusan</form>
+                     <sense n="1">
+                        <def>決心する</def>
+			<cit type="example">
+			     <quote>Dia <emph>mengambil keputusan</emph> menekan loceng sekali lagi.</quote>
+			     <cit type="translation">
+				     <quote>彼はもう一度ベルを押すことに決めた。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                     <sense n="2">
+                        <def>採決する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil kesempatan</form>
+                     <sense>
+                        <def>機に乗じる、機会を利用する</def>
+			<cit type="example">
+			     <quote>Ada juga yang <emph>mengambil kesempatan</emph> daripada majlis persandingan adik-beradik atau saudara-mara dan duduklah mereka di atas pelamin.</quote>
+			     <cit type="translation">
+				     <quote>兄弟姉妹や親戚のプルサンディガンの婚礼儀式という機に乗じる人もいて、彼らはひな壇（新郎新婦の席）に座るのです。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil ketetapan</form>
+                     <sense>
+                        <def>決議する</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil kira</form>
+                     <sense>
+                        <def>考慮する、配慮する</def>
+                        <cit type="example">
+                           <quote>Jumlah itu belum lagi <emph>mengambil kira</emph> kadar inflasi setiap tahun.</quote>
+                           <cit type="translation">
+                              <quote>その合計はまだ毎年のインフレ率を考慮に入れていない。</quote>
+                           </cit>
+                        </cit>
+                        <cit type="example">
+                           <quote>Jurucakap kerajaan berkata Parlimen telah <emph>mengambil kira</emph> pilihan yang ada untuk melaksanakan undang-undang baru dan akan membuat pengumuman secepat mungkin.</quote>
+                           <cit type="translation">
+                              <quote>政府のスポークスマンは、議会は新しい法律を施行するための選択肢についてすでに考慮し、できるだけ早急に発表を行う予定であると述べた。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil kisah</form>
+                     <sense>
+                        <def>気にする</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil langkah</form>
+                     <sense n="1">
+                        <def>対処する、措置する</def>
+			<cit type="example">
+			     <quote>Kami akan <emph>mengambil langkah</emph> untuk melindungi pengguna daripadanya.</quote>
+			     <cit type="translation">
+				     <quote>我々はそれからユーザーを保護する措置を講じます。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                     <sense n="2">
+                        <def>踏み出す</def>
+			<cit type="example">
+			     <quote>Ada sesuatu di sana, namun tidak berani kakinya <emph>mengambil langkah</emph> langkah ke hadapan.</quote>
+			     <cit type="translation">
+				     <quote>そこに何かがあるものの、彼（女）の足は前に踏み出す勇気がなかった。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil peduli</form>
+                     <sense>
+                        <def>気にする</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil peluang</form>
+                     <sense>
+                        <def>機会を利用する、この機に～する、この場を借りて～する</def>
+			<cit type="example">
+			     <quote><emph>Mengambil peluang</emph> di sini, beta ingin menyeru kepada sekalian umat Islam, khasnya para belia dan pelajar, supaya jangan memandang ringan perkara berkat.</quote>
+			     <cit type="translation">
+				     <quote>この機会を利用して、朕はイスラーム教徒達、特に若者や学生達に神の恩恵を軽視しないよう求める。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil tahu</form>
+                     <sense>
+                        <def>気に留める、気に掛ける</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil tempat duduk</form>
+                     <sense>
+                        <def>着席する</def>
+			<cit type="example">
+			     <quote>Wati <emph>mengambil tempat</emph> duduk di sebelah Khafidah.</quote>
+			     <cit type="translation">
+				     <quote>ワティはカフィダの隣に着席した。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil tindakan</form>
+                     <sense>
+                        <def>対処する、措置する</def>
+			<cit type="example">
+			     <quote>Oleh sebab itu kami amat berharap agar pihak tuan dapat <emph>mengambil tindakan</emph> segara supaya masalah ini dapat diselesaikan.</quote>
+			     <cit type="translation">
+				     <quote>それゆえ、我々は貴殿にこの問題を解決すべく、至急対処いただけることを切に望んでおります。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>mengambil wuduk</form>
+                     <sense>
+                        <def>ウドゥ、小浄（礼拝前に身体の一部を水で清める行為）を行う</def>
+			<cit type="example">
+			     <quote>Dan memang kebiasaan kami untuk <emph>mengambil wuduk</emph> di laut.</quote>
+			     <cit type="translation">
+				     <quote>そして、確かに海でウドゥをするのが私達の習慣です。</quote>
+			     </cit>
+			 </cit>
+                     </sense>
+                  </entry>
+               </re>
             </entry>
          </entry>
 
