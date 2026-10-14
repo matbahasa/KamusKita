@@ -18554,6 +18554,101 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 pihak -->
+            <form>
+               <orth>pihak</orth>
+               <pron>péhak</pron>
+            </form>
+            <!-- 語形 pihak -->
+            <entry xml:id="cc-59595" resp="Uemiya">
+               <form>pihak</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <usg type="gram">修飾語を伴い</usg>
+                  <def>〜側、〜方、関係者、当局</def>
+                  <cit type="example">
+                     <quote><emph>pihak</emph> berkuasa</quote>
+                     <cit type="translation">
+                        <quote>当局</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>Pihak</emph> Berkuasa Tempatan</quote>
+                     <cit type="translation">
+                        <quote>地方自治体、地方政府</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>satu <emph>pihak</emph></quote>
+                     <cit type="translation">
+                        <quote>一方（片側）、一方的</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Kebetulan, <emph>pihak</emph> polis sedang meronda arked tersebut.</quote>
+                     <cit type="translation">
+                        <quote>偶然にも、警察当局はそのアーケードをパトロール中だった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Tidak semua <emph>pihak</emph> dapat mencapai reformasi dengan hasil yang sepenuhnya seperti yang dihajati.</quote>
+                     <cit type="translation">
+                        <quote>すべての関係者が望んでいた通りの完璧な結果を伴う改革を達成できたわけではなかった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya bercerita di sini tanpa menyebelahi mana-mana <emph>pihak</emph>.</quote>
+                     <cit type="translation">
+                        <quote>私はここで、いかなる関係者の側にも立たずに話をしています。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Kentucky merupakan negeri sempadan semasa perang, dan dalam satu ketika, memiliki dua kerajaan, satu <emph>pihak</emph> menyokong Gabungan manakala satu <emph>pihak</emph> lagi menyokong Kesatuan.</quote>
+                     <cit type="translation">
+                        <quote>ケンタッキーは戦争中、国境州であり、一時期には二つの政府が存在していた。一方は南軍を支持し、もう一方は北軍を支持していた。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Mungkin sahaja satu <emph>pihak</emph> tidak terlihat dan tersedar manfaat dan mudarat yang dilihat oleh <emph>pihak</emph> yang lain.</quote>
+                     <cit type="translation">
+                        <quote>一方が、他方が見ている利益や害が見えていなかったり、それに気付いていなかったりすることもあり得る。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>bagi pihak</form>
+                     <sense>
+                        <def>～に代わって</def>
+                        <cit type="example">
+                           <quote>Saya minta maaf <emph>bagi pihak</emph> suami saya.</quote>
+                           <cit type="translation">
+                              <quote>私は夫に代わって謝ります。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>pihak ketiga</form>
+                     <sense>
+                        <def>第三者</def>
+                        <cit type="example">
+                           <quote>Waktu bekerja yang selebihnya akan ditampung oleh <emph>pihak ketiga</emph>.</quote>
+                           <cit type="translation">
+                              <quote>残りの労働時間は第三者によって担われることになる。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+               </re>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 polis-->
             <form>
                <orth>polis</orth>
@@ -23811,6 +23906,68 @@
                      </cit>
                   </cit>
                </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 turut -->
+            <form>
+               <orth>turut</orth>
+               <pron>turut</pron>
+            </form>
+            <!-- 語形 menurut -->
+            <entry xml:id="cc-81475" resp="Nomaguchi">
+               <form>menurut</form>
+               <!-- 前置詞 -->
+               <gramGrp>
+                  <pos>前</pos>
+               </gramGrp>
+               <sense>
+                  <def>〜によると</def>
+                  <cit type="example">
+                     <quote><emph>menurut</emph> ramalan cuaca</quote>
+                     <cit type="translation">
+                        <quote>天気予報によると</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>Menurut</emph> seorang saksi, pada ketika itu, saksi ternampak Zayn dan rakannya sedang merempit di kawasan yang sempit.</quote>
+                     <cit type="translation">
+                        <quote>目撃者によると、その時、ザインとその仲間が狭い場所で暴走行為をしているところを見たという。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>従う</def>
+                  <cit type="example">
+                     <quote>Pensyarah itu hanya <emph>menurut</emph> perintah ketua jabatan.</quote>
+                     <cit type="translation">
+                        <quote>その講師はただ学科長の指示に従っただけだ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>付いて行く</def>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>menurut jejak (langkah)</form>
+                     <sense>
+                        <def>同じ道を歩む、足跡をたどる</def>
+                        <cit type="example">
+                           <quote>Tentunya Dean akan <emph>menurut jejak langkah</emph> ayahnya, Adam.</quote>
+                           <cit type="translation">
+                              <quote>もちろん、ディーンは彼の父親、アダムと同じ道を歩むだろう。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+               </re>
             </entry>
          </entry>
 
