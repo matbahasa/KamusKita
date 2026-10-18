@@ -4053,7 +4053,7 @@
                      <quote><emph>Sebelum</emph> saya mengundurkan diri, izinkan saya untuk
                         membacakan serangkap pantun.</quote>
                      <cit type="translation">
-                        <quote>立ち去る前にパントゥンを1つ詠ませて下さい。</quote>
+                        <quote>立ち去る前にパントゥンを1つ詠ませてください。</quote>
                      </cit>
                   </cit>
                   <cit type="example">
@@ -9160,12 +9160,179 @@
          </entry>
 
          <entry type="root">
-            <!-- 語根 ingat-->
+            <!-- 語根 ibu -->
+            <form>
+               <orth>ibu</orth>
+               <pron>ibu</pron>
+            </form>
+            <!-- 語形 ibu -->
+            <entry xml:id="cc-30476" resp="Ogawara">
+               <form>ibu</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>母、母親</def>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> kandung</quote>
+                     <cit type="translation">
+                        <quote>実母、生みの親</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> tiri</quote>
+                     <cit type="translation">
+                        <quote>義母</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> tunggal</quote>
+                     <cit type="translation">
+                        <quote>シングルマザー</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>susu <emph>ibu</emph></quote>
+                     <cit type="translation">
+                        <quote>母乳</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Tiga hari berlalu, si <emph>ibu</emph> langsung tidak menjenguk anaknya.</quote>
+                     <cit type="translation">
+                        <quote>三日が過ぎたが、母親は一切子供の様子を見に行かなかった。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Berkenaan dengan <emph>ibu</emph> mertua yang membeza-bezakan layanan di antara menantu dan anak menantu, merupakan suatu ketidakadilan.</quote>
+                     <cit type="translation">
+                        <quote>嫁（婿）とその子供とで接し方を変える義理の母について言えば、それは不公平というものだ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+               <sense n="a">
+                  <usg type="gram">呼びかけ</usg>
+                  <def>お母さん</def>
+                  <cit type="example">
+                     <quote>Saya pergi dulu, <emph>ibu</emph>.</quote>
+                     <cit type="translation">
+                        <quote>私は先に行きます、お母さん。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="b">
+                  <usg type="gram">1・2人称の代名詞代用表現</usg>
+                  <def>お母さん</def>
+                  <cit type="example">
+			  <quote><emph>Ibu</emph> tak sedar yang kamu dah balik.</quote>
+                     <cit type="translation">
+                        <quote>お母さん、あなたが帰ってきたことに気が付かなかったわ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Boleh saya ikut <emph>ibu</emph> ke pasar?</quote>
+                     <cit type="translation">
+                        <quote>お母さんと一緒に市場に行ってもいい？</quote>
+                     </cit>
+                  </cit>
+               </sense>
+	       </sense>
+               <sense n="3">
+                  <def>主たる部分</def>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> jari</quote>
+                     <cit type="translation">
+                        <quote>親指</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> kota</quote>
+                     <cit type="translation">
+                        <quote>中心都市</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> negara</quote>
+                     <cit type="translation">
+                        <quote>首都</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> negeri</quote>
+                     <cit type="translation">
+                        <quote>州都</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> panah</quote>
+                     <cit type="translation">
+                        <quote>弓</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>ibu</emph> pejabat</quote>
+                     <cit type="translation">
+                        <quote>本社、本部</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>Ibu</emph> Pejabat Kontinjen</quote>
+                     <cit type="translation">
+                        <quote>警察本部（略称はIPK）</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Pantai Kuta adalah sebuah tempat para pelancong yang terletak di sebelah selatan Denpasar, <emph>ibu</emph> kota Bali, Indonesia.</quote>
+                     <cit type="translation">
+                        <quote>クタ海岸はインドネシア、バリの中心都市デンパサールの南側に位置する観光客達が集まる場所だ。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+			  <quote>Pembayaran boleh dibuat pada hari dan waktu bekerja dari jam 8.00 pagi di Bahagian Kewangan, Tingkat 1, <emph>Ibu</emph> Pejabat Polis Gadong.</quote>
+                     <cit type="translation">
+                        <quote>支払いは開庁日窓口対応時間中、朝8時からガドン警察本部一階の財務部で行うことができます。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>ibu bapa</form>
+                     <sense>
+                        <def>父母、両親</def>
+                        <cit type="example">
+                           <quote><emph>Ibu bapa</emph> saya ada di luar negara sekarang.</quote>
+                           <cit type="translation">
+                              <quote>私の両親は今、海外にいます。</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ibu saudara</form>
+                     <sense>
+                        <def>伯母、叔母</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>ibu pertiwi</form>
+                     <sense>
+                        <def>祖国</def>
+                     </sense>
+                  </entry>
+               </re>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 ingat -->
             <form>
                <orth>ingat</orth>
                <pron>ingat</pron>
             </form>
-            <!-- 語形 ingat-->
+            <!-- 語形 ingat -->
             <entry xml:id="cc-31365" resp="Nomoto">
                <form>ingat</form>
                <!-- 動詞 -->
@@ -9341,7 +9508,7 @@
                <!-- 熟語 -->
                <re>
                   <entry>
-                     <form>ini itu </form>
+                     <form>ini itu</form>
                      <sense>
                         <def>あれこれ</def>
                      </sense>
@@ -10415,7 +10582,7 @@
                      <quote><emph>Kalau</emph> nak ke kedutaan, awak turun di stesen
                         seterusnya.</quote>
                      <cit type="translation">
-                        <quote>大使館へ行くなら、次の駅で降りて下さい。</quote>
+                        <quote>大使館へ行くなら、次の駅で降りてください。</quote>
                      </cit>
                   </cit>
                   <cit type="example">
@@ -10982,6 +11149,90 @@
                         </cit>
                      </cit>
                   </sense>
+               </sense>
+            </entry>
+         </entry>
+
+         <entry type="root">
+            <!-- 語根 kanak -->
+            <form>
+               <orth>kanak</orth>
+               <pron>kanak</pron>
+            </form>
+            <!-- 語形 kanak-kanak -->
+            <entry xml:id="cc-35695" resp="Nomoto">
+               <form>kanak-kanak</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <def>子供</def>
+                  <cit type="example">
+                     <quote>cerita <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>童話</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>doktor pakar <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>小児科医</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>harga <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>子供料金</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>klinik <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>小児科</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>lagu <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>童謡</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>pusat jagaan <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>託児所</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>taman asuhan <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>保育園 (= taska)</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>taman didikan <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>幼稚園 (= tadika)</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>tempat duduk <emph>kanak-kanak</emph></quote>
+                     <cit type="translation">
+                        <quote>チャイルドシート</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+            <!-- 語形 kekanak-kanakan -->
+            <entry xml:id="cc-35696" resp="Nomoto">
+               <form>kekanak-kanakan</form>
+               <!-- 形容詞 -->
+               <gramGrp>
+                  <pos>形</pos>
+               </gramGrp>
+               <sense>
+                  <def>子供っぽい</def>
                </sense>
             </entry>
          </entry>
@@ -16203,6 +16454,103 @@
          </entry>
 
          <entry type="root">
+            <!-- 語根 mati-->
+            <form>
+               <orth>mati</orth>
+               <pron>mati</pron>
+            </form>
+            <!-- 語形 mati -->
+            <entry xml:id="cc-49965" resp="Uchida">
+               <form>mati</form>
+               <!-- 動詞 -->
+               <gramGrp>
+                  <pos>動</pos>
+               </gramGrp>
+               <sense n="1">
+                  <def>死ぬ</def>
+                  <cit type="example">
+                     <quote>hukuman gantung sampai <emph>mati</emph></quote>
+                     <cit type="translation">
+                        <quote>絞首刑</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>hukuman <emph>mati</emph></quote>
+                     <cit type="translation">
+                        <quote>死刑</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>orang <emph>mati</emph></quote>
+                     <cit type="translation">
+                        <quote>死者</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Ratusan orang <emph>mati</emph>, ribuan orang cedera dan terluka.</quote>
+                     <cit type="translation">
+                        <quote>数百人が死亡し、数千人が負傷した。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Roh orang <emph>mati</emph> tetap hidup di sisi Allah.</quote>
+                     <cit type="translation">
+                        <quote>死者の魂はアッラーの傍らで生き続けている。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Sampai <emph>mati</emph> aku akan tetap menunggumu.</quote>
+                     <cit type="translation">
+                        <quote>死ぬまで僕は君を待ち続ける。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <sense n="2">
+                  <def>（機械などが）動かなくなる</def>
+                  <cit type="example">
+                     <quote>Enjin keretanya <emph>mati</emph> di tengah jalan kerana rosak atau kehabisan minyak.</quote>
+                     <cit type="translation">
+                        <quote>彼（女）の車のエンジンは故障あるいは燃料切れで道路の真ん中で動かなくなった。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 熟語 -->
+               <re>
+                  <entry>
+                     <form>harga mati</form>
+                     <sense>
+                        <def>固定価格、これ以上まけられない値段</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>hidup mati</form>
+                     <sense>
+                        <def>生死</def>
+                        <cit type="example">
+                           <quote><emph>Hidup mati</emph> tu kan di tangan Tuhan?</quote>
+                           <cit type="translation">
+                              <quote>生死っての神様のお決めになることですよね？</quote>
+                           </cit>
+                        </cit>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>jalan mati</form>
+                     <sense>
+                        <def>行き止まり、袋小路</def>
+                     </sense>
+                  </entry>
+                  <entry>
+                     <form>tidur mati</form>
+                     <sense>
+                        <def>（死人と間違われるほど）爆睡する</def>
+                     </sense>
+                  </entry>
+               </re>
+            </entry>
+         </entry>
+
+         <entry type="root">
             <!-- 語根 memang-->
             <form>
                <orth>memang</orth>
@@ -20270,7 +20618,6 @@
                      </sense>
                   </entry>
                </re>
-
                <!-- 副詞 -->
                <gramGrp>
                   <pos>副</pos>
@@ -20400,6 +20747,126 @@
                      </sense>
                   </entry>
                </re>
+            </entry>
+            <!-- 語形 bersama -->
+            <entry xml:id="cc-67058" resp="Takahashi">
+               <form>bersama</form>
+               <!-- 副詞 -->
+               <gramGrp>
+                  <pos>副</pos>
+               </gramGrp>
+               <sense>
+                  <def>共に、一緒に</def>
+                  <cit type="example">
+                     <quote>Saya balik <emph>bersama</emph> dengan semua.</quote>
+                     <cit type="translation">
+                        <quote>私はみんなと一緒に帰りました。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Apa kata kita <emph>bersama</emph> pergi membeli-belah esok?</quote>
+                     <cit type="translation">
+                        <quote>明日、一緒に買い物に行きませんか。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 前置詞 -->
+               <gramGrp>
+                  <pos>前</pos>
+               </gramGrp>
+               <sense>
+                  <def>～と一緒に、～とともに</def>
+                  <cit type="example">
+                     <quote>Setiap tahun saya pergi melancong <emph>bersama</emph> keluarga.</quote>
+                     <cit type="translation">
+                        <quote>毎年、家族で旅行に行きます。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya akan mendaki gunung <emph>bersama</emph> kawan pada hujung minggu.</quote>
+                     <cit type="translation">
+                        <quote>週末、友達と山に登ります。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 形容詞 -->
+               <gramGrp>
+                  <pos>形</pos>
+               </gramGrp>
+               <sense>
+                  <def>共同の</def>
+                  <cit type="example">
+                     <quote>Kegawatan sosial adalah permasalahan <emph>bersama</emph> dan memerlukan penyelesaian bersepadu, kolektif dan terancang.</quote>
+                     <cit type="translation">
+                        <quote>社会危機は共同の課題であり統一的、集団的、計画的な解決を必要とする。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Memastikan web selamat digunakan oleh semua orang adalah tanggungjawab kita <emph>bersama</emph>.</quote>
+                     <cit type="translation">
+                        <quote>ウェブをすべての人が安全に使えるようにすることは、私達みんなの責任です。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+            <!-- 語形 bersama-sama -->
+            <entry xml:id="cc-67059" resp="Nomoto">
+               <form>bersama-sama</form>
+               <!-- 副詞 -->
+               <gramGrp>
+                  <pos>副</pos>
+               </gramGrp>
+               <sense>
+                  <def>共に、一緒に</def>
+                  <cit type="example">
+                     <quote>Kami mengambil gambar <emph>bersama-sama</emph>.</quote>
+                     <cit type="translation">
+                        <quote>私達は一緒に写真を撮った。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote>Saya <emph>bersama-sama</emph> denganmu, janganlah takut atau khuatir.</quote>
+                     <cit type="translation">
+                        <quote>私は君と一緒にいるから、恐がったり不安に思ったりしないでください。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+               <!-- 前置詞 -->
+               <gramGrp>
+                  <pos>前</pos>
+               </gramGrp>
+               <sense>
+                  <def>～と一緒に、～とともに</def>
+                  <cit type="example">
+                     <quote>Kami akan makan <emph>bersama-sama</emph> staf.</quote>
+                     <cit type="translation">
+                        <quote>私達はスタッフと一緒に食べます。</quote>
+                     </cit>
+                  </cit>
+                  <cit type="example">
+                     <quote><emph>Bersama-sama</emph> ini disertakan wang untuk keperluan saudara membeli rokok.</quote>
+                     <cit type="translation">
+                        <quote>貴兄がタバコを買うのに必要なお金を同封します。</quote>
+                     </cit>
+                  </cit>
+               </sense>
+            </entry>
+            <!-- 語形 kebersamaan -->
+            <entry xml:id="cc-67061" resp="Nomoto">
+               <form>kebersamaan</form>
+               <!-- 名詞 -->
+               <gramGrp>
+                  <pos>名</pos>
+               </gramGrp>
+               <sense>
+                  <def>一体感、連帯感、協調</def>
+                  <cit type="example">
+                     <quote>Prinsip utama yang mendasari 1 Malaysia adalah <emph>kebersamaan</emph> dan kekitaan dalam satu keluarga besar. </quote>
+                     <cit type="translation">
+                        <quote>一つのマレーシアの根底にある中心理念は一つの大きな家族としての一体感と帰属意識だ。</quote>
+                     </cit>
+                  </cit>
+               </sense>
             </entry>
          </entry>
 
@@ -21376,7 +21843,7 @@
                   <cit type="example">
                      <quote>Biar saya pergi <emph>sendiri</emph>.</quote>
                      <cit type="translation">
-                        <quote>私に自分で行かせて下さい。</quote>
+                        <quote>私に自分で行かせてください。</quote>
                      </cit>
                   </cit>
                </sense>
@@ -21385,7 +21852,7 @@
                   <cit type="example">
                      <quote>Tiba-tiba kereta itu terkunci <emph>sendiri</emph>.</quote>
                      <cit type="translation">
-                        <quote>突然その車はひとりでに鍵がかかった</quote>
+                        <quote>突然その車はひとりでに鍵がかかった。</quote>
                      </cit>
                   </cit>
                </sense>
@@ -21967,7 +22434,7 @@
                   <cit type="example">
                      <quote>Pastikan halba <emph>tadi</emph> direbus hingga kembang.</quote>
                      <cit type="translation">
-                        <quote>先ほどのハーブは膨らむまで茹でるようにして下さい。</quote>
+                        <quote>先ほどのハーブは膨らむまで茹でるようにしてください。</quote>
                      </cit>
                   </cit>
                </sense>
@@ -24087,7 +24554,7 @@
                      <quote>Sila gunakan pen <emph>untuk</emph> mengisi borang permohonan kiriman
                         wang.</quote>
                      <cit type="translation">
-                        <quote>振り込み用紙を書くのには、ペンを使って下さい。</quote>
+                        <quote>振り込み用紙を書くのには、ペンを使ってください。</quote>
                      </cit>
                   </cit>
                   <cit type="example">
