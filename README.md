@@ -3,8 +3,6 @@
 
 例文はほどんどが[Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en) (Goldhahn et al. 2012)のマレー語サブコーパス、[Asian Language Treebank](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/) (Riza et al. 2016)、[TUFS Asian Language Parallel Corpus (TULPCo)](https://github.com/matbahasa/TALPCo) (Nomoto et al. 2018) から採った文やそれを改変（簡略化）した文ですが、一部その他のウェブデータから採った文もあります。
 
-このレポジトリのすべてのファイルは、[Creative Commons Attribution 4.0 International（CC-BY 4.0）](https://creativecommons.org/licenses/by/4.0/)の下で提供されています。適切なクレジット（著者名・作品名・ライセンス）を付した上で、営利・非営利を問わず、自由に利用・改変・再配布が可能です。
-
 ## 引用
 野元裕樹（監修）. 2025. 『みんなのマレー語辞典』. [https://github.com/matbahasa/KamusKita/](https://github.com/matbahasa/KamusKita/).
 
